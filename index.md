@@ -8,7 +8,7 @@ title: Mostafa Mehdipour Ghazi, Ph.D.
 Pioneer Centre for Artificial Intelligence  
 Department of Computer Science  
 University of Copenhagen  
-📧 [ghazi@di.ku.dk](mailto:ghazi@di.ku.dk)   
+📧 ghazi(at)di.ku.dk
 
 ---
 
