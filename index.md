@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Mostafa Mehdipour Ghazi, Ph.D.
 ---
 
 # Mostafa Mehdipour Ghazi, Ph.D.
