@@ -5,9 +5,11 @@ title: Mostafa Mehdipour Ghazi, Ph.D.
 
 # Mostafa Mehdipour Ghazi, Ph.D.
 
-Assistant Professor of Artificial Intelligence  
-Department of Computer Science, University of Copenhagen
-📧 [my.email@example.com](mailto:my.email@example.com)   
+Assistant Professor of Artificial Intelligence
+Pioneer Centre for AI
+Department of Computer Science
+University of Copenhagen
+📧 [ghazi@di.ku.dk](mailto:ghazi@di.ku.dk)   
 
 ---
 
