@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Mostafa Mehdipour Ghazi, Ph. D.
 ---
 
-# Your Name
+# Mostafa Mehdipour Ghazi, Ph.D.
 
 Assistant Professor of Artificial Intelligence  
 Department of Computer Science, University of Copenhagen
