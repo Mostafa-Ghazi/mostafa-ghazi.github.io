@@ -31,6 +31,23 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 ---
 
+## Teaching
+
+- Advanced Topics in Deep Learning (Fall 2025)  
+  [Course page](https://kurser.ku.dk/course/ndak24003u/2024-2025)  
+- Introduction to Data Science (Spring 2025)  
+  [Course page](https://kurser.ku.dk/course/ndak16003u)  
+- Deep Learning (Fall 2024)  
+  [Course page](https://kurser.ku.dk/course/ndak24002u/2024-2025)  
+- Advanced Topics in Deep Learning (Fall 2024)  
+  [Course page](https://kurser.ku.dk/course/ndak24003u/2024-2025)  
+- Advanced Deep Learning (Spring 2024)  
+  [Course page](https://kurser.ku.dk/course/ndak22002u/2023-2024)  
+- Introduction to Data Science (Spring 2024)  
+  [Course page](https://kurser.ku.dk/course/ndak16003u/2024-2025)  
+
+---
+
 ## Publications
 
 - **Paper Title 1**  
@@ -47,12 +64,6 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 ---
 
-## Teaching
-
-- Machine Learning (Spring 2025)
-- Deep Learning (Fall 2024)
-
----
 
 ## Contact
 
