@@ -1,12 +1,12 @@
 ---
 layout: default
-title: XXXX YYYY
+title: Mostafa Mehdipour Ghazi, Ph. D.
 ---
 
 # Your Name
 
-Assistant Professor of AI  
-Department of Computer Science, 
+Assistant Professor of Artificial Intelligence  
+Department of Computer Science, University of Copenhagen
 📧 [my.email@example.com](mailto:my.email@example.com)   
 
 ---
