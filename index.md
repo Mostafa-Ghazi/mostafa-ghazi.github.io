@@ -76,7 +76,29 @@ My research focuses on artificial intelligence with interests in deep machine le
 - Said Djafar Said (B.Sc., University of Copenhagen, 2025)  
   Brain MRI generation with guidance, explainability, and privacy inspection  
 - Milla E. Nielsen (B.Sc., University of California, Los Angeles, 2024)  
-  Alzheimer's disease detection from MRI biomarkers using machine learning methods   
+  Alzheimer's disease detection from MRI biomarkers using machine learning methods  
+- Casper Lisager Frandsen (M.Sc., University of Copenhagen, 2024)  
+  Multimodal (CT-MRI) registration of brain imaging using deep learning methods
+- Karl van Eeden Risager (B.Sc., University of Copenhagen, 2024)  
+  Quality assessment of brain imaging-based generative AI models  
+- Noah Videcrantz (B.Sc., University of Copenhagen, 2024)  
+  Reconstructing 3D brain images for domain adaptation using deep learning  
+- Nikolaj Søberg Lerke (B.Sc., University of Copenhagen, 2024)  
+  Inspecting privacy preservation in generative medical imaging  
+- Jonas Møller Bagger (B.Sc., University of Copenhagen, 2024)  
+  Deep learning-based image retrieval from non-imaging records  
+- Nicole Kozlová (M.Sc., University of Copenhagen, 2023)  
+  Multimodal brain MRI segmentation using deep learning-based registration  
+- Holger Rubæk Danielsen (B.Sc., University of Copenhagen, 2023)  
+  Concept bottleneck models on brain pathology  
+- Alice Schiavone (M.Sc., University of Milan, 2023)
+  Segmentation and detection of white matter hyperintensities in uncontrolled settings  
+
+
+
+
+
+
 
 
 
