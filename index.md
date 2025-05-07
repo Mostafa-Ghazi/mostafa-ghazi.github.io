@@ -59,6 +59,8 @@ My research focuses on artificial intelligence with interests in deep machine le
   Predicting risk of surgery, tumor growth, and endocrine failure using AI  
 - Aida Moafi (Ph.D., University of Leicester, 2024–)  
   Cardiac fibrosis and scar segmentation from MRIs using deep learning
+- Gabriel Sainz Vazquez (M.Sc., University of Copenhagen, 2025–)  
+  Counterfactual brain MRI generation with deep generative models  
 - Sara Leiva Montoya (B.Sc., Universidad de los Andes, 2025)  
   Image segmentation using pretrained foundation models  
 - Ziwen Xiong (M.Sc., University of Copenhagen, 2025)  
