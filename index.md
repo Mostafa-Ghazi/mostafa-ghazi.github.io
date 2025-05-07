@@ -45,9 +45,8 @@ My research focuses on artificial intelligence with interests in deep machine le
 ## Publications
 
 - **Paper Title 1**  
-  *Conference Name*, 2024. [PDF](#)
-- **Paper Title 2**  
-  *Journal Name*, 2023. [PDF](#)
+  *Conference Name*, 2025.
+- Coming soon ...
 
 ---
 
