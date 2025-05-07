@@ -111,4 +111,4 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 ## Contact
 
-I am currently open to supervising Master's and PhD students interested in AI.
+I am open to supervising bachelor's, master's, and PhD students interested in computer vision and deep learning.
