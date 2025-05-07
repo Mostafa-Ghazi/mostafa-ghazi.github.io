@@ -57,15 +57,15 @@ My research focuses on artificial intelligence with interests in deep machine le
   A fine-grained analysis of brain imaging abnormalities using active learning  
 - Ida Brandt Andersen (Ph.D., University of Copenhagen, 2024–)  
   Predicting risk of surgery, tumor growth, and endocrine failure using AI  
-- Aida Moafi (Ph.D., University of Leicester, 2024–)
+- Aida Moafi (Ph.D., University of Leicester, 2024–)  
   Cardiac fibrosis and scar segmentation from MRIs using deep learning  
 - Ziwen Xiong (M.Sc., University of Copenhagen, 2025)  
   Deep learning for neuronal activity analysis under heat stress in zebrafish  
-- Daniel Vilet Rodríguez (M.Sc., University of Copenhagen, 2025)
+- Daniel Vilet Rodríguez (M.Sc., University of Copenhagen, 2025)  
   MRI-based cognitive decline prediction using pretrained foundation models  
-- Nathaniel Putera (M.Sc., University of Copenhagen, 2025)
+- Nathaniel Putera (M.Sc., University of Copenhagen, 2025)  
   Cognitive decline clustering and prediction in multimodal Alzheimer’s disease cohorts  
-- Markos Aivazoglou Vounatsos (M.Sc., University of Copenhagen, 2025)
+- Markos Aivazoglou Vounatsos (M.Sc., University of Copenhagen, 2025)  
   High-quality image synthesis using efficient denoising diffusion models  
 - 
 
