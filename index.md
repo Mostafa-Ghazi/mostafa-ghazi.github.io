@@ -91,16 +91,18 @@ My research focuses on artificial intelligence with interests in deep machine le
   Multimodal brain MRI segmentation using deep learning-based registration  
 - Holger Rubæk Danielsen (B.Sc., University of Copenhagen, 2023)  
   Concept bottleneck models on brain pathology  
-- Alice Schiavone (M.Sc., University of Milan, 2023)
+- Alice Schiavone (M.Sc., University of Milan, 2023)  
   Segmentation and detection of white matter hyperintensities in uncontrolled settings  
-
-
-
-
-
-
-
-
+- Sebastian Nørgaard Llambias (M.Sc., University of Copenhagen, 2022)  
+  Unsupervised domain adaptation for medical imaging using data augmentation  
+- Amaro Garcia Suarez (M.Sc., University of Copenhagen, 2022)  
+  Texture-based analysis of the hippocampus for Alzheimer’s disease prediction using 2D CNNs  
+- Kiril Vadimovic Klein (M.Sc., University of Copenhagen, 2022)  
+  Brain volumetric changes due to COVID-19 – A retrospective study on a Danish cohort  
+- Neus Rodeja Ferrer (M.Sc., University of Copenhagen, 2022)  
+  Cerebral microbleeds on brain MRI of COVID-19 patients – A retrospective cohort study  
+- Mehdi Mehdipour Ghazi (M.Sc., Science and Research, 2020)  
+  Traffic flow prediction and optimization with incomplete data using deep learning methods  
 
 ---
 
