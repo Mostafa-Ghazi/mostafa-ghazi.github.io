@@ -14,8 +14,8 @@ University of Copenhagen
 
 ## Education
 
-- Ph.D. in Medical Imaging with Deep Machine Learning, University College London, 2020  
-  Disease Progression Modeling and Prediction  
+- Ph.D. in Medical Imaging, University College London, 2020  
+  Disease Progression Modeling and Deep Learning  
 - M.Sc. in Electronics Engineering, Sabanci University, 2015  
   Computer Vision and Pattern Analysis  
 - M.Sc. in Electrical Engineering, University of Tehran, 2010  
