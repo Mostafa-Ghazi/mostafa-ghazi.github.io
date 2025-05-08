@@ -87,7 +87,6 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
 
 ---
 
-// Code to Generate Charts Based on Students' Statistics
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
   // Sample Data for charts
