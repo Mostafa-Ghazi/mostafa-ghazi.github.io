@@ -76,12 +76,6 @@ My research focuses on artificial intelligence with interests in deep machine le
   <div style="width: 230px; height: 150px;">
     <canvas id="papersLevelChart"></canvas>
   </div>
-  <div style="width: 230px; height: 150px;">
-    <canvas id="studentsGenderChart"></canvas>
-  </div>
-  <div style="width: 230px; height: 150px;">
-    <canvas id="papersGenderChart"></canvas>
-  </div>
 </div>
 <br>
 
@@ -102,10 +96,8 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   // Sample Data for charts
   const studentsData = {
     levels: ['B.Sc.', 'M.Sc.', 'Ph.D.'],
-    gender: ['Male', 'Female'],
     papersByLevel: [10, 13, 3],
     studentsByLevel: [50, 30, 20],
-    papersByGender: [8, 5],
     studentsByGender: [17, 9]
   };
   // Number of students per level chart
@@ -130,23 +122,6 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
       }
     }
   });
-  // Number of students per gender chart
-  new Chart(document.getElementById('studentsGenderChart'), {
-    type: 'pie',
-    data: {
-      labels: studentsData.gender,
-      datasets: [{
-        label: 'Gender Distribution',
-        data: studentsData.studentsByGender,
-        backgroundColor: ['rgba(75, 192, 192, 0.2)', 'rgba(255, 99, 132, 0.2)'],
-        borderColor: ['rgba(75, 192, 192, 1)', 'rgba(255, 99, 132, 1)'],
-        borderWidth: 1
-      }]
-    },
-    options: {
-      responsive: true
-    }
-  });
   // Number of papers per level chart
   new Chart(document.getElementById('papersLevelChart'), {
     type: 'bar',
@@ -167,23 +142,6 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
           beginAtZero: true
         }
       }
-    }
-  });
-  // Number of papers per gender chart
-  new Chart(document.getElementById('papersGenderChart'), {
-    type: 'pie',
-    data: {
-      labels: studentsData.gender,
-      datasets: [{
-        label: 'Papers by Gender',
-        data: studentsData.papersByGender,
-        backgroundColor: ['rgba(137, 207, 240, 0.2)', 'rgba(255, 159, 64, 0.2)'],
-        borderColor: ['rgba(137, 207, 240, 1)', 'rgba(255, 159, 64, 1)'],
-        borderWidth: 1
-      }]
-    },
-    options: {
-      responsive: true
     }
   });
 </script>
