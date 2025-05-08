@@ -87,9 +87,8 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   // Sample Data for charts
   const studentsData = {
     levels: ['B.Sc.', 'M.Sc.', 'Ph.D.'],
-    papersByLevel: [10, 13, 3],
-    studentsByLevel: [50, 30, 20],
-    studentsByGender: [17, 9]
+    studentsByLevel: [10, 13, 3],
+    papersByLevel: [2, 10, 1],
   };
   // Number of students per level chart
   new Chart(document.getElementById('studentsLevelChart'), {
