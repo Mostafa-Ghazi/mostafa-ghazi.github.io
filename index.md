@@ -44,9 +44,9 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 ## Publications
 
-[View full list of publications →](/publications/)  
+[Full Publication List →](/publications/)  
 
-[View Google Scholar →](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
+[Google Scholar →](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
 
 ---
 
@@ -114,7 +114,6 @@ My research focuses on artificial intelligence with interests in deep machine le
   [Paper 1](https://doi.org/10.48550/arXiv.2204.10222) • [Paper 2](https://ceur-ws.org/Vol-3497/paper-130.pdf)  
 
 ---
-
 
 ## Contact
 
