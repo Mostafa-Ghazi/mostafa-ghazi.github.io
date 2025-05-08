@@ -56,10 +56,10 @@ My research focuses on artificial intelligence with interests in deep machine le
 [Google Scholar](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="width: 250px; height: 150px;">
+  <div style="width: 240px; height: 150px;">
     <canvas id="papersPerYearChart"></canvas>
   </div>
-  <div style="width: 250px; height: 150px;">
+  <div style="width: 250px; height: 200px;">
     <canvas id="authorshipChart"></canvas>
   </div>
 </div>
@@ -97,9 +97,9 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   const yearData = {
     labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
     datasets: [{
-      label: 'Papers per Year',
+      label: 'Number of Papers',
       data: [2, 4, 3, 1, 3, 4, 1, 3, 6, 6, 5],
-      backgroundColor: 'rgba(33, 150, 243, 0.6)',
+      backgroundColor: 'rgba(33, 150, 243, 0.2)',
       borderColor: 'rgba(33, 150, 243, 1)',
       borderWidth: 1
     }]
@@ -110,9 +110,9 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
     datasets: [{
       data: [16, 12, 10],
       backgroundColor: [
-      'rgba(102, 187, 255, 0.7)',
-      'rgba(129, 199, 132, 0.7)',
-      'rgba(255, 183, 77, 0.7)'
+      'rgba(102, 187, 255, 0.2)',
+      'rgba(129, 199, 132, 0.2)',
+      'rgba(255, 183, 77, 0.2)'
       ],
       borderColor: [
       'rgba(102, 187, 255, 1)',
