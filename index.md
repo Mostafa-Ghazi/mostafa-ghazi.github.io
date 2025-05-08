@@ -1,13 +1,5 @@
 ---
 layout: default
-title: Mostafa Mehdipour Ghazi, Ph.D.
-avatar: "/photo-art.jpg"
----
-
-# Mostafa Mehdipour Ghazi, Ph.D.
-
-<img src="/photo-art.jpg" alt="My Photo" style="width: 200px; height: auto;" />
-
 ---
 
 ## Welcome
