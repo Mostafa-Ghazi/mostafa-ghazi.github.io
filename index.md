@@ -94,8 +94,10 @@ My research focuses on artificial intelligence with interests in deep machine le
   Project title: Concept bottleneck models on brain pathology  
 - **Alice Schiavone** (M.Sc., University of Milan, 2023)  
   Project title: Segmentation and detection of white matter hyperintensities in uncontrolled settings  
+  [Paper 1](https://openreview.net/pdf?id=c0KnufAuX6k)
 - **Sebastian Nørgaard Llambias** (M.Sc., University of Copenhagen, 2022)  
   Project title: Unsupervised domain adaptation for medical imaging using data augmentation  
+  [Paper 1](https://doi.org/10.48550/arXiv.2308.04395) • [Paper 2](https://proceedings.mlr.press/v233/llambias24a/llambias24a.pdf) • [Paper 3](https://doi.org/10.48550/arXiv.2407.19888)  
 - **Amaro Garcia Suarez** (M.Sc., University of Copenhagen, 2022)  
   Project title: Texture-based analysis of the hippocampus for Alzheimer’s disease prediction using 2D CNNs  
 - **Kiril Vadimovic Klein** (M.Sc., University of Copenhagen, 2022)  
