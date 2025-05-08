@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome
 
-I am an Assistant Professor in AI at the Department of Computer Science, University of Copenhagen. My research focuses on deep generative models, robust representation learning, and medical data analysis. I work at the intersection of computer vision, health data science, and responsible AI. On this website, you can learn more about my research, teaching, publications, and academic activities.
+I am an Assistant Professor in AI at the Department of Computer Science, University of Copenhagen. My research focuses on deep generative models, robust representation learning, and medical data analysis. I work at the intersection of computer vision, health data science, and responsible AI. You can learn more about my research, teaching, publications, and academic activities on this website.
 
 ---
 
@@ -56,10 +56,10 @@ My research focuses on artificial intelligence with interests in deep machine le
 [Google Scholar](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="width: 240px; height: 150px;">
+  <div style="width: 240px; height: 200px;">
     <canvas id="papersPerYearChart"></canvas>
   </div>
-  <div style="width: 260px; height: 200px;">
+  <div style="width: 250px; height: 200px;">
     <canvas id="authorshipChart"></canvas>
   </div>
 </div>
@@ -111,9 +111,9 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
     datasets: [{
       data: [16, 12, 10],
       backgroundColor: [
-      'rgba(100, 149, 237, 0.2)',
-      'rgba(60, 179, 113, 0.2)',
-      'rgba(255, 160, 122, 0.2)'
+      'rgba(100, 149, 237, 0.5)',
+      'rgba(60, 179, 113, 0.5)',
+      'rgba(255, 160, 122, 0.5)'
       ],
       borderColor: [
       'rgba(100, 149, 237, 1)',
