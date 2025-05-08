@@ -103,7 +103,8 @@ My research focuses on artificial intelligence with interests in deep machine le
 - Neus Rodeja Ferrer (M.Sc., University of Copenhagen, 2022)  
   Cerebral microbleeds on brain MRI of COVID-19 patients – A retrospective cohort study  
 - Mehdi Mehdipour Ghazi (M.Sc., Science and Research, 2020)  
-  Traffic flow prediction and optimization with incomplete data using deep learning methods  
+  Project title: Traffic flow prediction and optimization with incomplete data using deep learning methods
+  [Paper 1](https://doi.org/10.48550/arXiv.2204.10222) [Paper 2](https://ceur-ws.org/Vol-3497/paper-130.pdf)  
 
 ---
 
