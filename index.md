@@ -59,10 +59,11 @@ My research focuses on artificial intelligence with interests in deep machine le
   <div style="width: 240px; height: 150px;">
     <canvas id="papersPerYearChart"></canvas>
   </div>
-  <div style="width: 250px; height: 200px;">
+  <div style="width: 260px; height: 200px;">
     <canvas id="authorshipChart"></canvas>
   </div>
 </div>
+<br>
 
 ---
 
@@ -110,14 +111,14 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
     datasets: [{
       data: [16, 12, 10],
       backgroundColor: [
-      'rgba(102, 187, 255, 0.2)',
-      'rgba(129, 199, 132, 0.2)',
-      'rgba(255, 183, 77, 0.2)'
+      'rgba(100, 149, 237, 0.2)',
+      'rgba(60, 179, 113, 0.2)',
+      'rgba(255, 160, 122, 0.2)'
       ],
       borderColor: [
-      'rgba(102, 187, 255, 1)',
-      'rgba(129, 199, 132, 1)',
-      'rgba(255, 183, 77, 1)'
+      'rgba(100, 149, 237, 1)',
+      'rgba(60, 179, 113, 1)',
+      'rgba(255, 160, 122, 1)'
       ],
       borderWidth: 1
     }]
