@@ -70,10 +70,10 @@ My research focuses on artificial intelligence with interests in deep machine le
 [Full Student List →](/students/)  
 
 - Student Statistics
-<canvas id="studentsLevelChart" width="400" height="200"></canvas>
-<canvas id="studentsGenderChart" width="400" height="200"></canvas>
-<canvas id="papersLevelChart" width="400" height="200"></canvas>
-<canvas id="papersGenderChart" width="400" height="200"></canvas>
+<canvas id="studentsLevelChart" width="200" height="100"></canvas>
+<canvas id="studentsGenderChart" width="200" height="100"></canvas>
+<canvas id="papersLevelChart" width="200" height="100"></canvas>
+<canvas id="papersGenderChart" width="200" height="100"></canvas>
 
 ---
 
