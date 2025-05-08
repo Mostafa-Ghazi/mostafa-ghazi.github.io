@@ -55,6 +55,15 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 [Google Scholar](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="width: 240px; height: 150px;">
+    <canvas id="papersPerYearChart"></canvas>
+  </div>
+  <div style="width: 240px; height: 150px;">
+    <canvas id="authorshipChart"></canvas>
+  </div>
+</div>
+
 ---
 
 ## Students
@@ -84,7 +93,46 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-  // Sample Data for charts
+  // Data for the number of papers chart
+  const yearData = {
+    labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
+    datasets: [{
+      label: 'Papers per Year',
+      data: [2, 4, 3, 1, 3, 4, 1, 3, 6, 6, 5],
+      backgroundColor: '#6EC6FF'
+    }]
+  };
+  // Data for authorship chart
+  const authorshipData = {
+    labels: ['First Author', 'Last Author', 'Middle Author'],
+    datasets: [{
+      data: [16, 12, 10],
+      backgroundColor: ['#6EC6FF', '#81C784', '#FFB74D']
+    }]
+  };
+  // Number of papers per year chart
+  new Chart(document.getElementById('papersPerYearChart'), {
+    type: 'bar',
+    data: yearData,
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true,
+          stepSize: 1
+        }
+      }
+    }
+  });
+  // Authorship chart
+  new Chart(document.getElementById('authorshipChart'), {
+    type: 'pie',
+    data: authorshipData
+  });
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  // Data for charts
   const studentsData = {
     levels: ['B.Sc.', 'M.Sc.', 'Ph.D.'],
     studentsByLevel: [10, 13, 3],
