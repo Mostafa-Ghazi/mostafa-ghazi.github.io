@@ -177,8 +177,8 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
       datasets: [{
         label: 'Papers by Gender',
         data: studentsData.papersByGender,
-        backgroundColor: ['rgba(75, 192, 192, 0.2)', 'rgba(255, 159, 64, 0.2)'],
-        borderColor: ['rgba(75, 192, 192, 1)', 'rgba(255, 159, 64, 1)'],
+        backgroundColor: ['rgba(137, 207, 240, 0.2)', 'rgba(255, 159, 64, 0.2)'],
+        borderColor: ['rgba(137, 207, 240, 1)', 'rgba(255, 159, 64, 1)'],
         borderWidth: 1
       }]
     },
