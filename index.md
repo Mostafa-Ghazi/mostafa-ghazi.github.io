@@ -70,16 +70,16 @@ My research focuses on artificial intelligence with interests in deep machine le
 [Full Student List →](/students/)  
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="width: 200px; height: 100px;">
+  <div style="width: 250px; height: 150px;">
     <canvas id="studentsLevelChart"></canvas>
   </div>
-  <div style="width: 200px; height: 100px;">
+  <div style="width: 250px; height: 150px;">
     <canvas id="papersLevelChart"></canvas>
   </div>
-  <div style="width: 200px; height: 100px;">
+  <div style="width: 300px; height: 200px;">
     <canvas id="studentsGenderChart"></canvas>
   </div>
-  <div style="width: 200px; height: 100px;">
+  <div style="width: 300px; height: 200px;">
     <canvas id="papersGenderChart"></canvas>
   </div>
 </div>
