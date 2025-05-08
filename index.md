@@ -57,17 +57,23 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 ---
 
-## Students
-
-[Full Student List →](/students/)  
-
----
-
 ## Publications
 
 [Full Publication List →](/publications/)  
 
 [Google Scholar →](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
+
+---
+
+## Students
+
+[Full Student List →](/students/)  
+
+- Student Statistics
+<canvas id="studentsLevelChart" width="400" height="200"></canvas>
+<canvas id="studentsGenderChart" width="400" height="200"></canvas>
+<canvas id="papersLevelChart" width="400" height="200"></canvas>
+<canvas id="papersGenderChart" width="400" height="200"></canvas>
 
 ---
 
@@ -78,3 +84,97 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
 📧 **Email:** ghazi(at)di.ku.dk  
 🏫 **Institution:** Pioneer Centre for AI, Department of Computer Science, University of Copenhagen  
 📍 **Address:** Øster Voldgade 3, 1350 Copenhagen, Denmark  
+
+---
+
+// Code to Generate Charts Based on Students' Statistics
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  // Sample Data for charts
+  const studentsData = {
+    levels: ['B.Sc.', 'M.Sc.', 'Ph.D.'],
+    gender: ['Male', 'Female'],
+    papersByLevel: [10, 13, 3],
+    studentsByLevel: [50, 30, 20],
+    papersByGender: [8, 5],
+    studentsByGender: [17, 9]
+  };
+  // Number of students per level chart
+  new Chart(document.getElementById('studentsLevelChart'), {
+    type: 'bar',
+    data: {
+      labels: studentsData.levels,
+      datasets: [{
+        label: 'Number of Students',
+        data: studentsData.studentsByLevel,
+        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+        borderColor: 'rgba(75, 192, 192, 1)',
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true,
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  });
+  // Number of students per gender chart
+  new Chart(document.getElementById('studentsGenderChart'), {
+    type: 'pie',
+    data: {
+      labels: studentsData.gender,
+      datasets: [{
+        label: 'Gender Distribution',
+        data: studentsData.studentsByGender,
+        backgroundColor: ['rgba(75, 192, 192, 0.2)', 'rgba(255, 99, 132, 0.2)'],
+        borderColor: ['rgba(75, 192, 192, 1)', 'rgba(255, 99, 132, 1)'],
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true
+    }
+  });
+  // Number of papers per level chart
+  new Chart(document.getElementById('papersLevelChart'), {
+    type: 'bar',
+    data: {
+      labels: studentsData.levels,
+      datasets: [{
+        label: 'Number of Papers',
+        data: studentsData.papersByLevel,
+        backgroundColor: 'rgba(153, 102, 255, 0.2)',
+        borderColor: 'rgba(153, 102, 255, 1)',
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true,
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  });
+  // Number of papers per gender chart
+  new Chart(document.getElementById('papersGenderChart'), {
+    type: 'pie',
+    data: {
+      labels: studentsData.gender,
+      datasets: [{
+        label: 'Papers by Gender',
+        data: studentsData.papersByGender,
+        backgroundColor: ['rgba(75, 192, 192, 0.2)', 'rgba(255, 159, 64, 0.2)'],
+        borderColor: ['rgba(75, 192, 192, 1)', 'rgba(255, 159, 64, 1)'],
+        borderWidth: 1
+      }]
+    },
+    options: {
+      responsive: true
+    }
+  });
+</script>
