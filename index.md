@@ -69,11 +69,18 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 [Full Student List →](/students/)  
 
-- Student Statistics
-<canvas id="studentsLevelChart" width="200" height="100"></canvas>
-<canvas id="studentsGenderChart" width="200" height="100"></canvas>
-<canvas id="papersLevelChart" width="200" height="100"></canvas>
-<canvas id="papersGenderChart" width="200" height="100"></canvas>
+<div style="width: 200px; height: 100px;">
+  <canvas id="studentsLevelChart"></canvas>
+</div>
+<div style="width: 200px; height: 100px;">
+  <canvas id="studentsGenderChart"></canvas>
+</div>
+<div style="width: 200px; height: 100px;">
+  <canvas id="papersLevelChart"></canvas>
+</div>
+<div style="width: 200px; height: 100px;">
+  <canvas id="papersGenderChart"></canvas>
+</div>
 
 ---
 
