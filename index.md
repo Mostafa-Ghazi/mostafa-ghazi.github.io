@@ -6,7 +6,7 @@ avatar: "/photo-art.jpg"
 
 # Mostafa Mehdipour Ghazi, Ph.D.
 
-![My Photo](/photo-art.jpg)
+<img src="/photo-art.jpg" alt="My Photo" style="width: 200px; height: auto;" />
 
 ---
 
