@@ -1,5 +1,8 @@
 title: "Mostafa Mehdipour Ghazi"
-logo: "/photo-art.jpg"
+header:
+  logo: "/photo-art.jpg"
+  logo_width: 150
+  logo_height: auto
 description: |
   Assistant Professor of AI <br>
   Department of Computer Science <br>
