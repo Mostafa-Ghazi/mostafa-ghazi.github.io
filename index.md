@@ -82,7 +82,7 @@ My research focuses on artificial intelligence with interests in deep machine le
   <div style="width: 300px; height: 200px;">
     <canvas id="papersGenderChart"></canvas>
   </div>
-</div>
+</div>  
 
 ---
 
