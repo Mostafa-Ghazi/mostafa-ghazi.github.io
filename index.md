@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome
 
-I am an Assistant Professor in AI at the Department of Computer Science, University of Copenhagen. My research focuses on deep generative models, robust representation learning, and medical data analysis. I work at the intersection of computer vision, health data science, and responsible AI. You can learn more about my research, teaching, publications, and academic activities on this website.
+I am an Assistant Professor in AI at the Department of Computer Science, University of Copenhagen. My research focuses on deep generative models, robust representation learning, and medical data analysis. I work at the intersection of computer vision, health data science, and responsible AI. This website provides more information about my research, teaching, publications, and academic activities.
 
 ---
 
@@ -56,7 +56,7 @@ My research focuses on artificial intelligence with interests in deep machine le
 [Google Scholar](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="width: 240px; height: 200px;">
+  <div style="width: 240px; height: 250px;">
     <canvas id="papersPerYearChart"></canvas>
   </div>
   <div style="width: 250px; height: 200px;">
@@ -107,7 +107,7 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   };
   // Data for authorship chart
   const authorshipData = {
-    labels: ['1st Author', 'Last Author', 'Mid Author'],
+    labels: ['First Author', 'Last  Author', 'Middle Author'],
     datasets: [{
       data: [16, 12, 10],
       backgroundColor: [
