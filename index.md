@@ -59,25 +59,24 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 ## Publications
 
-[Full Publication List →](/publications/)  
+[Full Publication List](/publications/)  
 
-[Google Scholar →](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
+[Google Scholar](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
 
 ---
 
 ## Students
 
-[Full Student List →](/students/)  
+[Full Student List](/students/)  
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="width: 230px; height: 150px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="width: 250px; height: 150px;">
     <canvas id="studentsLevelChart"></canvas>
   </div>
-  <div style="width: 230px; height: 150px;">
+  <div style="width: 250px; height: 150px;">
     <canvas id="papersLevelChart"></canvas>
   </div>
 </div>
-<br>
 
 ---
 
