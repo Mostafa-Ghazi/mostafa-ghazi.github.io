@@ -12,7 +12,18 @@ University of Copenhagen
 
 ---
 
-## Research Interests
+## Education
+
+- Ph.D. in Medical Imaging with Deep Machine Learning, University College London, 2020  
+  Disease Progression Modeling and Prediction  
+- M.Sc. in Electronics Engineering, Sabanci University, 2015  
+  Computer Vision and Pattern Analysis  
+- M.Sc. in Electrical Engineering, University of Tehran, 2010  
+  Communication Systems and Image Analysis  
+
+---
+
+## Research
 
 My research focuses on artificial intelligence with interests in deep machine learning and computer vision methods that are robust, generalizable, and applicable to real-world data. 
 
@@ -42,17 +53,17 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 ---
 
+## Students
+
+[Full Student List →](/students/)  
+
+---
+
 ## Publications
 
 [Full Publication List →](/publications/)  
 
 [Google Scholar →](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
-
----
-
-## Students
-
-[Full Student List →](/students/)  
 
 ---
 
