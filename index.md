@@ -44,11 +44,9 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 ## Publications
 
-[Full publication list →](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
+[View full list of publications →](./publications)  
 
-- **Paper Title 1**  
-  *Conference Name*, 2025.
-- Coming soon ...
+[View Google Scholar →](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
 
 ---
 
