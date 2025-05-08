@@ -107,7 +107,7 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   };
   // Data for authorship chart
   const authorshipData = {
-    labels: ['First Author', 'Last Author', 'Middle Author'],
+    labels: ['1st Author', 'Last Author', 'Mid Author'],
     datasets: [{
       data: [16, 12, 10],
       backgroundColor: [
