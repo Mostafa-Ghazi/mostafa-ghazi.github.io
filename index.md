@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mostafa Mehdipour Ghazi, Ph.D.
+avatar: "/photo-art.jpg"
 ---
 
 # Mostafa Mehdipour Ghazi, Ph.D.
