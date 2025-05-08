@@ -6,11 +6,6 @@ avatar: "/photo-art.jpg"
 
 # Mostafa Mehdipour Ghazi, Ph.D.
 
-Pioneer Centre for Artificial Intelligence  
-Department of Computer Science  
-University of Copenhagen  
-📧 ghazi(at)di.ku.dk
-
 ![My Photo](/photo-art.jpg)
 
 ---
@@ -80,6 +75,6 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 I am open to supervising Bachelor’s, Master’s, and PhD students interested in computer vision, deep learning, and medical AI. If you are motivated and have a strong background in computer vision, machine learning, or related areas, feel free to get in touch.  
 
-Email: ghazi(at)di.ku.dk  
+📧 Email: ghazi(at)di.ku.dk  
 Institution: Pioneer Centre for AI, Department of Computer Science, University of Copenhagen  
 Address: Øster Voldgade 3, 1350 Copenhagen, Denmark  
