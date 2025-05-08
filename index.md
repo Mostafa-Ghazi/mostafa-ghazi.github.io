@@ -11,6 +11,8 @@ Department of Computer Science
 University of Copenhagen  
 📧 ghazi(at)di.ku.dk
 
+![My Photo](/photo-art.jpg)
+
 ---
 
 ## Welcome
