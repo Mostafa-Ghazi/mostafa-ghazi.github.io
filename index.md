@@ -12,6 +12,12 @@ University of Copenhagen
 
 ---
 
+## Welcome
+
+I am an Assistant Professor in AI at the Department of Computer Science, University of Copenhagen. My research focuses on deep generative models, robust representation learning, and medical data analysis. I work at the intersection of computer vision, health data science, and responsible AI. On this website, you can learn more about my research, teaching, publications, and academic activities.
+
+---
+
 ## Education
 
 - Ph.D. in Medical Imaging, University College London, 2020  
