@@ -117,6 +117,11 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
     },
     options: {
       responsive: true,
+      plugins: {
+        datalabels: {
+          display: false
+        }
+      },      
       scales: {
         y: {
           beginAtZero: true
