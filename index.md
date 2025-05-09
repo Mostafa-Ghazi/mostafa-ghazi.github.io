@@ -97,9 +97,9 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   Chart.register(ChartDataLabels);
   const publicationData = {
     years: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
-    papersByYear: [2, 4, 3, 1, 3, 4, 1, 3, 6, 6, 5],
+    papersByYear: [2, 4, 3, 1, 4, 3, 1, 3, 8, 5, 3],
     authors: ['First', 'Last', 'Middle'],
-    authorsByOrder: [16, 12, 10],
+    authorsByOrder: [16, 12, 9],
   };
   // Papers per Year Chart
   new Chart(document.getElementById('papersPerYearChart'), {
