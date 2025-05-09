@@ -53,7 +53,7 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 [Full Publication List](/publications/)  
 
-[Google Scholar](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="width: 240px; height: 250px;">
