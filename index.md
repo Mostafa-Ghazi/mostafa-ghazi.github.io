@@ -93,53 +93,69 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
 <script>
-  // Data for the number of papers chart
-  const yearData = {
-    labels: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
-    datasets: [{
-      label: 'Number of Papers',
-      data: [2, 4, 3, 1, 3, 4, 1, 3, 6, 6, 5],
-      backgroundColor: 'rgba(33, 150, 243, 0.2)',
-      borderColor: 'rgba(33, 150, 243, 1)',
-      borderWidth: 1
-    }]
-  };
-  // Data for authorship chart
-  const authorshipData = {
-    labels: ['First Author', 'Last  Author', 'Middle Author'],
-    datasets: [{
-      data: [16, 12, 10],
-      backgroundColor: [
-      'rgba(100, 149, 237, 0.5)',
-      'rgba(60, 179, 113, 0.5)',
-      'rgba(255, 160, 122, 0.5)'
-      ],
-      borderColor: [
-      'rgba(100, 149, 237, 1)',
-      'rgba(60, 179, 113, 1)',
-      'rgba(255, 160, 122, 1)'
-      ],
-      borderWidth: 1
-    }]
+  // Data for charts
+  const publicationData = {
+    years: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
+    papersByYear: [2, 4, 3, 1, 3, 4, 1, 3, 6, 6, 5],
+    authors: ['First', 'Last', 'Middle'],
+    authorsByOrder: [16, 12, 10],
   };
   // Number of papers per year chart
-  new Chart(document.getElementById('papersPerYearChart'), {
+  new Chart(document.getElementById('paperYearChart'), {
     type: 'bar',
-    data: yearData,
+    data: {
+      labels: publicationData.years,
+      datasets: [{
+        label: 'Number of Papers',
+        data: publicationData.papersByYear,
+        backgroundColor: 'rgba(33, 150, 243, 0.2)',
+        borderColor: 'rgba(33, 150, 243, 1)',
+        borderWidth: 1
+      }]
+    },
     options: {
+      responsive: true,
       scales: {
         y: {
-          beginAtZero: true,
-          stepSize: 1
+          beginAtZero: true
         }
       }
     }
   });
-  // Authorship chart
-  new Chart(document.getElementById('authorshipChart'), {
+  // Number of authorship chart
+  new Chart(document.getElementById('authorOrderChart'), {
     type: 'pie',
-    data: authorshipData
+    data: {
+      labels: publicationData.authors,
+      datasets: [{
+        data: publicationData.authorsByOrder,
+        backgroundColor: [
+          'rgba(100, 149, 237, 0.5)',
+          'rgba(60, 179, 113, 0.5)',
+          'rgba(255, 160, 122, 0.5)'
+        ],
+        borderColor: '#fff',
+        borderWidth: 1
+      }]
+    },
+    options: {
+      plugins: {
+        legend: { display: false },
+        datalabels: {
+          color: '#fff',
+          font: {
+            weight: 'bold',
+            size: 12
+          },
+          formatter: (value, context) => {
+            return context.chart.data.labels[context.dataIndex];
+          }
+        }
+      }
+    },
+    plugins: [ChartDataLabels]
   });
 </script>
 
