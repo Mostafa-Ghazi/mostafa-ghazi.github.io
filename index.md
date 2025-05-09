@@ -85,9 +85,9 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested in computer vision, deep learning, and medical AI. If you are motivated and have a strong background in computer vision, machine learning, applied mathematics, or related areas, feel free to get in touch.  
 
-📧 **Email:** ghazi(at)di.ku.dk  
-🏫 **Institution:** Pioneer Centre for AI, Department of Computer Science, University of Copenhagen  
-📍 **Address:** Øster Voldgade 3, 1350 Copenhagen, Denmark  
+✉️ **Email:** ghazi(at)di.ku.dk  
+🎓 **Institution:** Pioneer Centre for AI, Department of Computer Science, University of Copenhagen  
+🗺️ **Address:** Øster Voldgade 3, 1350 Copenhagen, Denmark  
 
 ---
 
