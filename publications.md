@@ -28,7 +28,7 @@ Zh. Kang, M. Nielsen, B. Yang, and M. Mehdipour Ghazi
 
 M. Mehdipour Ghazi, L. Sørensen, S. Ourselin, and M. Nielsen  
 *CARRNN: A continuous autoregressive recurrent neural network for deep representation learning from sporadic temporal data*, IEEE Transactions on Neural Networks and Learning Systems, vol. 35, pp. 792–802, 2022.
-[Paper](https://doi.org/10.1109/TNNLS.2022.3177366)  
+[Paper](https://doi.org/10.1109/TNNLS.2022.3177366) • [Code](https://github.com/Mostafa-Ghazi/CARRNN)  
 
 E. Jimenez-Solem et al.  
 *Developing and validating COVID-19 adverse outcome risk prediction models from a bi-national European cohort of 5594 patients*, Scientific Reports, vol. 11, pp. 1–12, 2020.
@@ -40,7 +40,7 @@ R. V. Marinescu et al.
 
 M. Mehdipour Ghazi, M. Nielsen, A. Pai, M. Modat, M. J. Cardoso, S. Ourselin, and L. Sørensen   
 *Robust parametric modeling of Alzheimer’s disease progression*, NeuroImage, vol. 225, p. 117460, 2020.
-[Paper](https://doi.org/10.1016/j.neuroimage.2020.117460)  
+[Paper](https://doi.org/10.1016/j.neuroimage.2020.117460) • [Code](https://github.com/Mostafa-Ghazi/RPDPM)  
 
 M. Mehdipour Ghazi, M. Nielsen, A. Pai, M. J. Cardoso, M. Modat, S. Ourselin, and L. Sørensen  
 *Training recurrent neural networks robust to incomplete data: Application to Alzheimer’s disease progression modeling*, Medical Image Analysis, vol. 53, pp. 39–46, 2019.
@@ -63,7 +63,7 @@ S. Cerri, V. Nersesjan, K. V. Klein, E. C. Cóppulo, S. N. Llambias, M. Mehdipou
 
 S. N. Llambias, J. Machnio, A. Munk, J. Ambsdorf, M. Nielsen, and M. Mehdipour Ghazi  
 *Yucca: A deep learning framework for medical image analysis*, arXiv preprint arXiv:2407.19888, 2024.
-[Paper](https://doi.org/10.48550/arXiv.2407.19888)  
+[Paper](https://doi.org/10.48550/arXiv.2407.19888) • [Code](https://github.com/Sllambias/yucca)  
 
 M. Mehdipour Ghazi, A. Ramezani, M. Siahi, and M. Mehdipour Ghazi  
 *Learning spatiotemporal features from incomplete data for traffic flow prediction using hybrid deep neural networks*, arXiv preprint arXiv:2204.10222, 2022.
@@ -78,11 +78,11 @@ S. N. Llambias, M. Nielsen, M. Mehdipour Ghazi
 
 M. Mehdipour Ghazi and M. Nielsen  
 *FAST-AID Brain: Fast and accurate segmentation tool using artificial intelligence developed for brain*, Scandinavian Conference on Image Analysis, Reykjavík, Iceland, June 2025.
-[Paper](https://doi.org/10.48550/arXiv.2208.14360)  
+[Paper](https://doi.org/10.48550/arXiv.2208.14360) • [Code](https://github.com/Mostafa-Ghazi/FAST-AID-Brain)  
 
 J. Machnio, M. Nielsen, and M. Mehdipour Ghazi   
 *Deep learning for localization of white matter lesions in neurological diseases*, Proceedings of the 6th Northern Lights Deep Learning Conference, Tromsø, Norway, January 2025.
-[Paper](https://openreview.net/pdf?id=ea0YJaJShO)  
+[Paper](https://openreview.net/pdf?id=ea0YJaJShO) • [Code](https://github.com/juliamachnio/WMHLocalization)  
 
 M. E. Nielsen, M. Nielsen, and M. Mehdipour Ghazi  
 *Assessing the efficacy of classical and deep neuroimaging biomarkers in early Alzheimer's disease diagnosis*, SPIE Medical Imaging Conference, San Francisco, United States, February 2025.
