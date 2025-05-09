@@ -56,7 +56,7 @@ My research focuses on artificial intelligence with interests in deep machine le
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
-  <div style="width: 310px; height: 250px;">
+  <div style="width: 320px; height: 180px;">
     <canvas id="papersPerYearChart"></canvas>
   </div>
   <div style="width: 150px; height: 150px;">
@@ -71,10 +71,10 @@ My research focuses on artificial intelligence with interests in deep machine le
 [Full Student List](/students/)  
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="width: 240px; height: 150px;">
+  <div style="width: 240px; height: 180px;">
     <canvas id="studentsLevelChart"></canvas>
   </div>
-  <div style="width: 240px; height: 150px;">
+  <div style="width: 240px; height: 180px;">
     <canvas id="papersLevelChart"></canvas>
   </div>
 </div>
