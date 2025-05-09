@@ -55,11 +55,11 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=8LoF2mEAAAAJ)  
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="width: 300px; height: 300px;">
     <canvas id="papersPerYearChart"></canvas>
   </div>
-  <div style="width: 175px; height: 175px;">
+  <div style="width: 160px; height: 160px;">
     <canvas id="authorshipChart"></canvas>
   </div>
 </div>
@@ -151,14 +151,14 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
           display: true,
           text: 'Authorship',
           font: {
-            size: 13
+            size: 12
           }
         },
         datalabels: {
           color: '#fff',
           font: {
             weight: 'bold',
-            size: 12
+            size: 11
           },
           formatter: (value, context) => {
             return context.chart.data.labels[context.dataIndex];
