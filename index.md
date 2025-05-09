@@ -95,15 +95,15 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
 <script>
-  // Data for charts
+  Chart.register(ChartDataLabels);
   const publicationData = {
     years: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
     papersByYear: [2, 4, 3, 1, 3, 4, 1, 3, 6, 6, 5],
     authors: ['First', 'Last', 'Middle'],
     authorsByOrder: [16, 12, 10],
   };
-  // Number of papers per year chart
-  new Chart(document.getElementById('paperYearChart'), {
+  // Papers per Year Chart
+  new Chart(document.getElementById('papersPerYearChart'), {
     type: 'bar',
     data: {
       labels: publicationData.years,
@@ -124,8 +124,8 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
       }
     }
   });
-  // Number of authorship chart
-  new Chart(document.getElementById('authorOrderChart'), {
+  // Authorship Order Chart
+  new Chart(document.getElementById('authorshipChart'), {
     type: 'pie',
     data: {
       labels: publicationData.authors,
@@ -154,8 +154,7 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
           }
         }
       }
-    },
-    plugins: [ChartDataLabels]
+    }
   });
 </script>
 
