@@ -63,7 +63,6 @@ My research focuses on artificial intelligence with interests in deep machine le
     <canvas id="authorshipChart"></canvas>
   </div>
 </div>
-<p style="margin: 2px 0;">
 
 ---
 
