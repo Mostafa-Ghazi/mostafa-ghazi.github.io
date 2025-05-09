@@ -23,18 +23,18 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 
 My research focuses on artificial intelligence with interests in deep machine learning and computer vision methods that are robust, generalizable, and applicable to real-world data. 
 
-- **Deep Generative Models for Images**  
+- **Deep Generative Models for Images** 🎨  
   Generative adversarial networks, variational autoencoders, and denoising diffusion models  
-  Bias mitigation, fairness, privacy, and quality assessment  
+  Bias mitigation ⚖️, fairness 🧑‍⚖️, privacy 🔐, and quality assessment  
 
-- **Robust Representation Learning**  
+- **Robust Representation Learning** 🤖  
   Unsupervised, self-supervised, and active learning  
-  Transfer learning, domain adaptation, and data augmentation  
-  Multimodal, heterogeneous, and time-series data  
+  Transfer learning 🔁, domain adaptation, and data augmentation 📊  
+  Multimodal, heterogeneous, and time-series data ⏱️  
 
-- **Brain Health Data Analysis**  
-  Disease progression modeling and prediction  
-  Alzheimer’s disease, stroke, tumors, and psychiatric disorders  
+- **Brain Health Data Analysis** 🧠  
+  Disease progression modeling and prediction 🧬  
+  Alzheimer’s disease 🧓, stroke, tumors 🧫, and psychiatric disorders  
 
 ---
 
