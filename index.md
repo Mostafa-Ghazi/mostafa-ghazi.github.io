@@ -10,11 +10,11 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 
 ## Education
 
-- ![UCL](https://en.wikipedia.org/wiki/University_College_London#/media/File:University_College_London_logo.svg) Ph.D. in Medical Imaging, University College London, 2020  
+- Ph.D. in Medical Imaging, University College London, 2020  
   Disease Progression Modeling and Deep Learning  
-- ![SU](https://en.wikipedia.org/wiki/Sabanc%C4%B1_University#/media/File:Sabanc%C4%B1_University_logo.svg) M.Sc. in Electronics Engineering, Sabanci University, 2015  
+- M.Sc. in Electronics Engineering, Sabanci University, 2015  
   Computer Vision and Pattern Analysis  
-- ![UT](https://en.wikipedia.org/wiki/University_of_Tehran#/media/File:University_of_Tehran_logo.svg) M.Sc. in Electrical Engineering, University of Tehran, 2010  
+- M.Sc. in Electrical Engineering, University of Tehran, 2010  
   Communication Systems and Image Analysis  
 
 ---
