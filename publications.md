@@ -44,7 +44,7 @@ M. Mehdipour Ghazi, M. Nielsen, A. Pai, M. Modat, M. J. Cardoso, S. Ourselin, an
 
 M. Mehdipour Ghazi, M. Nielsen, A. Pai, M. J. Cardoso, M. Modat, S. Ourselin, and L. Sørensen  
 *Training recurrent neural networks robust to incomplete data: Application to Alzheimer’s disease progression modeling*, Medical Image Analysis, vol. 53, pp. 39–46, 2019.
-[Paper](http://doi.org/10.1016/j.media.2019.01.004)  
+[Paper](http://doi.org/10.1016/j.media.2019.01.004) • [Code](https://github.com/Mostafa-Ghazi/Robust-LSTM)  
 
 M. Mehdipour Ghazi, B. Yanikoglu, and E. Aptoula  
 *Plant identification using deep neural networks via optimization of transfer learning parameters*, Neurocomputing, vol. 235, pp. 228–235, 2017.
@@ -74,7 +74,7 @@ M. Mehdipour Ghazi, A. Ramezani, M. Siahi, and M. Mehdipour Ghazi
 
 S. N. Llambias, M. Nielsen, M. Mehdipour Ghazi  
 *Data augmentation-based unsupervised domain adaptation in medical imaging*, SCIA, Reykjavík, Iceland, June 2025.
-[Paper](https://doi.org/10.48550/arXiv.2308.04395)  
+[Paper](https://doi.org/10.48550/arXiv.2308.04395) • [Code](https://github.com/Mostafa-Ghazi/MRI-Augmentation)  
 
 M. Mehdipour Ghazi and M. Nielsen  
 *FAST-AID Brain: Fast and accurate segmentation tool using artificial intelligence developed for brain*, Scandinavian Conference on Image Analysis, Reykjavík, Iceland, June 2025.
@@ -118,7 +118,7 @@ M. Mehdipour Ghazi, M. Nielsen, A. Pai, M. Modat, M. J. Cardoso, S. Ourselin, an
 
 M. Mehdipour Ghazi, M. Nielsen, A. Pai, M. J. Cardoso, M. Modat, S. Ourselin, and L. Sørensen  
 *Robust training of recurrent neural networks to handle missing data for disease progression modeling*, In the 1st International Conference on Medical Imaging with Deep Learning, Amsterdam, the Netherlands, July 2018.
-[Paper](https://doi.org/10.48550/arXiv.1808.05500)  
+[Paper](https://doi.org/10.48550/arXiv.1808.05500) • [Code](https://github.com/Mostafa-Ghazi/Robust-LSTM)  
 
 M. Zimmermann, M. Mehdipour Ghazi, H. K. Ekenel, and J-P Thiran  
 *Combining multiple views for visual speech recognition*, In the 14th International Conference on Auditory-Visual Speech Processing, Stockholm, Sweden, August 2017.
