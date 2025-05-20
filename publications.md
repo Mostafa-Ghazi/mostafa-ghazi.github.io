@@ -86,7 +86,7 @@ J. Machnio, M. Nielsen, and M. Mehdipour Ghazi
 
 M. E. Nielsen, M. Nielsen, and M. Mehdipour Ghazi  
 *Assessing the efficacy of classical and deep neuroimaging biomarkers in early Alzheimer's disease diagnosis*, SPIE Medical Imaging Conference, San Francisco, United States, February 2025.
-[Paper](https://doi.org/10.48550/arXiv.2410.24002) • [Code](https://github.com/millaenielsen/imaging-biomarkers)  
+[Paper](https://doi.org/10.1117/12.3046952) • [Code](https://github.com/millaenielsen/imaging-biomarkers)  
 
 K. V. E. Risager, T. Gholamalizadeh, and M. Mehdipour Ghazi  
 *Non-reference quality assessment for medical imaging: Application to synthetic brain MRIs*, MICCAI 2024 Workshop on Deep Generative Models, Marrakesh, Morocco, October 2024.
