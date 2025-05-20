@@ -43,7 +43,7 @@ permalink: /students/
 
 - **Milla E. Nielsen** (B.Sc., University of California, Los Angeles, 2024)  
   Project title: Alzheimer's disease detection from MRI biomarkers using machine learning methods  
-  [Paper 1](https://doi.org/10.48550/arXiv.2410.24002)  
+  [Paper 1](https://doi.org/10.1117/12.3046952)  
 
 - **Casper Lisager Frandsen** (M.Sc., University of Copenhagen, 2024)  
   Project title: Multimodal (CT-MRI) registration of brain imaging using deep learning methods
