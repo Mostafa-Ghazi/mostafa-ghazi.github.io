@@ -61,6 +61,10 @@ S. Cerri, V. Nersesjan, K. V. Klein, E. C. Cóppulo, S. N. Llambias, M. Mehdipou
 *Cross-disorder comparison of brain structures among 4,842 individuals with mental disorders and controls utilizing Danish population-based clinical MRI scans*, medRxiv, 2025.
 [Paper](https://doi.org/10.1101/2025.03.19.25324239)  
 
+A. Munk, S. Cerri, J. Ambsdorf, J. Machnio, S. N. Llambias, V. Nersesjan, C. H. Krag, P. Liu, P. R. García, M. Mehdipour Ghazi, M. Boesen, M. E. Benros, J. E. Iglesias, M. Nielsen  
+*A large-scale heterogeneous 3D magnetic resonance brain imaging dataset for self-supervised learning*, arXiv preprint arXiv:2506.14432, 2025.
+[Paper](https://doi.org/10.48550/arXiv.2506.14432)  
+
 S. N. Llambias, J. Machnio, A. Munk, J. Ambsdorf, M. Nielsen, and M. Mehdipour Ghazi  
 *Yucca: A deep learning framework for medical image analysis*, arXiv preprint arXiv:2407.19888, 2024.
 [Paper](https://doi.org/10.48550/arXiv.2407.19888) • [Code](https://github.com/Sllambias/yucca)  
