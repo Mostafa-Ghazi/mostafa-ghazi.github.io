@@ -72,6 +72,11 @@ M. Mehdipour Ghazi, A. Ramezani, M. Siahi, and M. Mehdipour Ghazi
 
 ## 📝 Conference & Workshop Papers
 
+A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, A. S. Alatrany, J. R. Arnold, M. Mehdipour Ghazi   
+*Robust deep learning for myocardial scar segmentation in cardiac MRI with noisy labels*, Proceedings of the 28th International Conference on Medical Image Computing
+and Computer Assisted Intervention, Daejeon, South Korea, September 2025.
+[Paper](https://arxiv.org/abs/2506.21151) • [Code](https://github.com/Danialmoa/YoloSAM)  
+
 S. N. Llambias, M. Nielsen, M. Mehdipour Ghazi  
 *Data augmentation-based unsupervised domain adaptation in medical imaging*, SCIA, Reykjavík, Iceland, June 2025.
 [Paper](https://doi.org/10.48550/arXiv.2308.04395) • [Code](https://github.com/Mostafa-Ghazi/MRI-Augmentation)  
