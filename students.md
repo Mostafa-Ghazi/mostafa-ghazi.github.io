@@ -6,7 +6,7 @@ permalink: /students/
 
 - **Julia Machnio** (Ph.D., University of Copenhagen, 2024–)  
   Project title: A fine-grained analysis of brain imaging abnormalities using active learning  
-  [Paper 1](https://openreview.net/pdf?id=ea0YJaJShO)   
+  [Paper 1](https://openreview.net/pdf?id=ea0YJaJShO) • [Paper 2](https://arxiv.org/abs/2506.22041)  
 
 - **Ida Brandt Andersen** (Ph.D., University of Copenhagen, 2024–)  
   Project title: Predicting risk of surgery, tumor growth, and endocrine failure using AI  
