@@ -81,6 +81,10 @@ A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, A. S. Alatrany, J. R. Arnold, M.
 and Computer Assisted Intervention, Daejeon, South Korea, September 2025.
 [Paper](https://arxiv.org/abs/2506.21151) • [Code](https://github.com/Danialmoa/YoloSAM)  
 
+J. Machnio, S. N. Llambias, M. Nielsen, and M. Mehdipour Ghazi  
+*Towards scalable and robust white matter lesion localization via multimodal deep learning*, 2nd Sorbonne-Heidelberg Workshop on AI in Medicine: Machine Learning for Multi-Modal Data, Heidelberg, Germany, June 2025.
+[Paper](https://doi.org/10.48550/arXiv.2506.22041)  
+
 S. N. Llambias, M. Nielsen, M. Mehdipour Ghazi  
 *Data augmentation-based unsupervised domain adaptation in medical imaging*, SCIA, Reykjavík, Iceland, June 2025.
 [Paper](https://doi.org/10.48550/arXiv.2308.04395) • [Code](https://github.com/Mostafa-Ghazi/MRI-Augmentation)  
