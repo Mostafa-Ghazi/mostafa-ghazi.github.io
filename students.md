@@ -6,7 +6,7 @@ permalink: /students/
 
 - **Julia Machnio** (Ph.D., University of Copenhagen, 2024–)  
   Project title: A fine-grained analysis of brain imaging abnormalities using active learning  
-  [Paper 1](https://openreview.net/pdf?id=ea0YJaJShO) • [Paper 2](https://arxiv.org/abs/2506.22041)  
+  [Paper 1](https://openreview.net/pdf?id=ea0YJaJShO) • [Paper 2](https://arxiv.org/abs/2506.22041) • [Paper 3](https://arxiv.org/abs/2507.15381)  
 
 - **Ida Brandt Andersen** (Ph.D., University of Copenhagen, 2024–)  
   Project title: Predicting risk of surgery, tumor growth, and endocrine failure using AI  
@@ -32,12 +32,15 @@ permalink: /students/
 
 - **Markos Aivazoglou Vounatsos** (M.Sc., University of Copenhagen, 2025)  
   Project title: High-quality image synthesis using efficient denoising diffusion models  
+  [Paper 1](https://arxiv.org/abs/2507.15381)  
 
 - **Simon Winther Albertsen** (B.Sc., University of Copenhagen, 2025)  
   Project title: Multiscale medical image segmentation with deep learning models  
+  [Paper 1](https://arxiv.org/abs/2507.15524)  
 
 - **Hjalte Svaneborg Bjørnstrup** (B.Sc., University of Copenhagen, 2025)  
   Project title: Multiscale medical image segmentation with deep learning models  
+  [Paper 1](https://arxiv.org/abs/2507.15524)  
 
 - **Said Djafar Said** (B.Sc., University of Copenhagen, 2025)  
   Project title: Brain MRI generation with guidance, explainability, and privacy inspection  
