@@ -78,15 +78,15 @@ M. Mehdipour Ghazi, A. Ramezani, M. Siahi, and M. Mehdipour Ghazi
 
 J. Machnio, M. Nielsen, and M. Mehdipour Ghazi  
 *To label or not to label: PALM -- A predictive model for evaluating sample efficiency in active learning models*, Proceedings of the IEEE/CVF International Conference on Computer Vision, Honolulu, Hawai'i, October 2025.
-[Paper](https://arxiv.org/abs/2507.15381) • [Code](https://github.com/juliamachnio/PALM)  
+[Paper](https://doi.org/10.48550/arXiv.2507.15381) • [Code](https://github.com/juliamachnio/PALM)  
 
 M. Aivazoglou Vounatsos and M. Mehdipour Ghazi  
 *A wavelet diffusion framework for accelerated generative modeling with lightweight denoisers*, International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications, Stavanger, Norway, September 2025.
-[Paper](https://arxiv.org/abs/2507.15381) • [Code](https://github.com/markos-aivazoglou/wavelet-diffusion)  
+[Paper](https://doi.org/10.48550/arXiv.2507.15381) • [Code](https://github.com/markos-aivazoglou/wavelet-diffusion)  
 
 S. Winther Albertsen, H. Svaneborg Bjørnstrup, M. Mehdipour Ghazi  
 *RARE-UNet: Resolution-aligned routing entry for adaptive medical image segmentation*, MICCAI 2025 Workshop on Efficient Medical AI, Daejeon, South Korea, September 2025.
-[Paper](https://arxiv.org/abs/2507.15524) • [Code](https://github.com/simonsejse/RARE-UNet)  
+[Paper](https://doi.org/10.48550/arXiv.2507.15524) • [Code](https://github.com/simonsejse/RARE-UNet)  
 
 A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, A. S. Alatrany, J. R. Arnold, M. Mehdipour Ghazi  
 *Robust deep learning for myocardial scar segmentation in cardiac MRI with noisy labels*, Proceedings of the 28th International Conference on Medical Image Computing
