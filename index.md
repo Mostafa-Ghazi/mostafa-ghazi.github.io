@@ -11,11 +11,9 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 ## Education
 
 - Ph.D. in Medical Imaging, University College London, 2020  
-  Disease Progression Modeling and Deep Learning  
+  Disease Progression Modeling and Deep Learning [Thesis](https://discovery.ucl.ac.uk/id/eprint/10130072/1/Thesis-Mostafa.pdf)  
 - M.Sc. in Electronics Engineering, Sabanci University, 2015  
-  Computer Vision and Pattern Analysis  
-- M.Sc. in Electrical Engineering, University of Tehran, 2010  
-  Communication Systems and Image Analysis  
+  Computer Vision and Pattern Analysis [Thesis](https://research.sabanciuniv.edu/id/eprint/32339/1/MostafamehdipourGhazi_10086380.pdf)  
 
 ---
 
