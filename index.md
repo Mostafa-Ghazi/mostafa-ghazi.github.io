@@ -8,23 +8,19 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 
 ---
 
-## 🔔 News & Updates
+## 🔔 News
 
-- 🎤 **[Talk]** Keynote speaker at *Computational Neuroscience – NAD Workshop* (**August 14**)  
+- 🎤 **[Talk]** Keynote speaker at *Computational Neuroscience – NAD Workshop* (🔗[August 14](https://neuroscienceacademydenmark.dk/event/computational-neuroscience-nad-workshop/))  
   **Title:** *Computer-Assisted Brain Imaging AI*  
-  🔗 [Program](https://neuroscienceacademydenmark.dk/event/computational-neuroscience-nad-workshop/)  
 
-- 🧠 **[Paper – Oral]** Accepted at *MICCAI Workshop on Efficient Medical AI* (**September 23**)  
-  **Title:** *RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation*  
-  🔗 [Program](https://sites.google.com/view/ema4miccai2025/programme?authuser=0)  
+- 🧠 **[Paper – Oral]** Accepted at *MICCAI Workshop on Efficient Medical AI* (🔗[September 23](https://sites.google.com/view/ema4miccai2025/programme?authuser=0))  
+  **Title:** *RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation*   
 
-- 🎙️ **[Paper – Oral]** Accepted at *MICCAI 2025* (**September 24–26**)  
+- 🎙️ **[Paper – Oral]** Accepted at *MICCAI 2025* (🔗[September 24–26](https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Program-Overview.pdf))  
   **Title:** *Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels*  
-  🔗 [Program](https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Program-Overview.pdf)  
 
-- 📄 **[Paper – Poster]** Accepted at *ICCV 2025* (**October 21–23**)  
+- 📄 **[Paper – Poster]** Accepted at *ICCV 2025* (🔗[October 21–23](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers))  
   **Title:** *To Label or Not to Label: PALM – A Predictive Model for Evaluating Sample Efficiency in Active Learning Models*  
-  🔗 [Program](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers)  
 
 ---
 
