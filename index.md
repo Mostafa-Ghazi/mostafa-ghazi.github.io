@@ -22,7 +22,7 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
   **Title:** *Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels*  
   🔗 [Program](https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Program-Overview.pdf)  
 
-  - 📄 **[Paper – Poster]** Accepted at *ICCV 2025* (**October 21–23**)  
+- 📄 **[Paper – Poster]** Accepted at *ICCV 2025* (**October 21–23**)  
   **Title:** *To Label or Not to Label: PALM – A Predictive Model for Evaluating Sample Efficiency in Active Learning Models*  
   🔗 [Program](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers)  
 
