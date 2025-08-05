@@ -10,8 +10,8 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 
 ## 🔔 News
 
-- 🎤 **[Talk]** Keynote speaker at *Computational Neuroscience – NAD Workshop* ([August 14](https://neuroscienceacademydenmark.dk/event/computational-neuroscience-nad-workshop/))  
-  **Title:** *Computer-Assisted Brain Imaging AI*  
+- 🎤 **[Talk]** Keynote speaker at *Computational Neuroscience – NAD Workshop* ([August 14](https://neuroscienceacademydenmark.dk/wp-content/uploads/2025/01/Programme-Computational-Neuroscience-NAD-Workshop-2025.pdf))  
+  **Title:** *AI-Assisted Disease Predictions*  
 
 - 🧠 **[Paper – Oral]** Accepted at *MICCAI Workshop on Efficient Medical AI* ([September 23](https://sites.google.com/view/ema4miccai2025/programme?authuser=0))  
   **Title:** *RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation*   
