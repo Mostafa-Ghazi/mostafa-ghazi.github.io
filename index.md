@@ -14,15 +14,18 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
   **Title:** *AI-Assisted Disease Predictions*  
 
 - 🧠 **[Paper – Oral]** Accepted at *MICCAI Workshop on Efficient Medical AI* ([September 23](https://sites.google.com/view/ema4miccai2025/programme?authuser=0))  
-  **Title:** *RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation*   
+  **Title:** *RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation*  
 
-- 🎙️ **[Paper – Oral]** Accepted at *MICCAI 2025* ([September 24–26](https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Program-Overview.pdf))  
+- 🫀 **[Paper – Oral]** Accepted at *MICCAI 2025* ([September 24–26](https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Program-Overview.pdf))  
   **Title:** *Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels*  
 
+- 🦷 **[Paper – Poster]** Accepted at *MICCAI Workshop on Oral and Dental Image Analysis* ([September 27](https://odin-workshops.org/2025/schedule.html))  
+  **Title:** *Tooth-Diffusion: Guided 3D CBCT Synthesis with Fine-Grained Tooth Conditioning*  
+  
 - 🏆 **[Challenge]** Organizing the *FOMO25 Challenge* at *MICCAI 2025* ([September 27](https://fomo25.github.io/organizers))  
   **Title:** *The First Foundation Model Challenge for Brain MRI*  
 
-- 📄 **[Paper – Poster]** Accepted at *ICCV 2025* ([October 21–23](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers))  
+- 🔍 **[Paper – Poster]** Accepted at *ICCV 2025* ([October 21–23](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers))  
   **Title:** *To Label or Not to Label: PALM – A Predictive Model for Evaluating Sample Efficiency in Active Learning Models*  
 
 ---
