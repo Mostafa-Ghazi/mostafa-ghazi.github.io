@@ -13,7 +13,7 @@ permalink: /students/
 
 - **Aida Moafi** (Ph.D., University of Leicester, 2024–)  
   Project title: Cardiac fibrosis and scar segmentation from MRIs using deep learning  
-  [Paper 1](https://arxiv.org/abs/2506.21151)  
+  [Paper 1](https://arxiv.org/abs/2506.21151) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790)  
 
 - **Gabriel Sainz Vazquez** (M.Sc., University of Copenhagen, 2025–)  
   Project title: Counterfactual brain MRI generation with deep generative models  
