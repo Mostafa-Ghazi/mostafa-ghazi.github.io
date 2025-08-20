@@ -117,9 +117,9 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   Chart.register(ChartDataLabels);
   const publicationData = {
     years: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
-    papersByYear: [2, 4, 3, 1, 4, 3, 1, 3, 8, 5, 9],
+    papersByYear: [2, 4, 3, 1, 4, 3, 1, 3, 8, 5, 10],
     authors: ['First', 'Last', 'Middle'],
-    authorsByOrder: [16, 17, 10],
+    authorsByOrder: [16, 18, 10],
   };
   // Papers per Year Chart
   new Chart(document.getElementById('papersPerYearChart'), {
@@ -195,7 +195,7 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   const studentsData = {
     levels: ['B.Sc.', 'M.Sc.', 'Ph.D.'],
     studentsByLevel: [10, 13, 3],
-    papersByLevel: [3, 11, 4],
+    papersByLevel: [3, 11, 5],
   };
   // Number of students per level chart
   new Chart(document.getElementById('studentsLevelChart'), {
