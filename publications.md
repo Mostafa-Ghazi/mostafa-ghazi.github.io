@@ -176,6 +176,10 @@ A. Shojaei-Hashemi, M. Mehdipour Ghazi, Sh. Ghaemmaghami, H. Soltanian-Zadeh
 
 ## 🧠 Clinical Abstracts
 
+A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, J. R. Arnold, M. Mehdipour Ghazi  
+*Myocardial scar segmentation using a human-guided foundation model*, MIUA 2025, Leeds, United Kingdom, July 2025.
+[Paper](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790)  
+
 K. V. Klein, M. Mehdipour Ghazi, C. Rostrup, B. H. Hestoy, W. L. Pedersen, M. Diamant, and M. Nielsen  
 *Automatic brain MRI segmentation quality control for more reliable study outcomes*, RSNA 2023, Chicago, United States, November 2023.
 [Paper](https://www.rsna.org/-/media/files/rsna/annual-meeting/future-and-past-meetings/rsna-2023-meeting-program.pdf#page=2275)  
