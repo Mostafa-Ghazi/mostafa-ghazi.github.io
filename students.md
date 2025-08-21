@@ -6,14 +6,14 @@ permalink: /students/
 
 - **Julia Machnio** (Ph.D., University of Copenhagen, 2024–)  
   Project title: A fine-grained analysis of brain imaging abnormalities using active learning  
-  [Paper 1](https://openreview.net/pdf?id=ea0YJaJShO) • [Paper 2](https://arxiv.org/abs/2506.22041) • [Paper 3](https://doi.org/10.48550/arXiv.2507.15381)  
+  [Paper 1](https://openreview.net/pdf?id=ea0YJaJShO) • [Paper 2](https://doi.org/10.48550/arXiv.2506.22041) • [Paper 3](https://doi.org/10.48550/arXiv.2507.15381)  
 
 - **Ida Brandt Andersen** (Ph.D., University of Copenhagen, 2024–)  
   Project title: Predicting risk of surgery, tumor growth, and endocrine failure using AI  
 
 - **Aida Moafi** (Ph.D., University of Leicester, 2024–)  
   Project title: Cardiac fibrosis and scar segmentation from MRIs using deep learning  
-  [Paper 1](https://arxiv.org/abs/2506.21151) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790)  
+  [Paper 1](https://doi.org/10.48550/arXiv.2506.21151) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790)  
 
 - **Gabriel Sainz Vazquez** (M.Sc., University of Copenhagen, 2025–)  
   Project title: Counterfactual brain MRI generation with deep generative models  
@@ -43,7 +43,8 @@ permalink: /students/
   [Paper 1](https://doi.org/10.48550/arXiv.2507.15524)  
 
 - **Said Djafar Said** (B.Sc., University of Copenhagen, 2025)  
-  Project title: Brain MRI generation with guidance, explainability, and privacy inspection  
+  Project title: 3D image generation with guidance, explainability, and privacy inspection  
+  [Paper 1](https://doi.org/10.48550/arXiv.2508.14276)  
 
 - **Milla E. Nielsen** (B.Sc., University of California, Los Angeles, 2024)  
   Project title: Alzheimer's disease detection from MRI biomarkers using machine learning methods  
