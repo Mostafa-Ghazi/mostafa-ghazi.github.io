@@ -13,6 +13,9 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 - 🎤 **[Talk]** Keynote speaker at *Computational Neuroscience – NAD Workshop* ([August 14](https://neuroscienceacademydenmark.dk/wp-content/uploads/2025/01/Programme-Computational-Neuroscience-NAD-Workshop-2025.pdf))  
   **Title:** *AI-Assisted Disease Predictions*  
 
+- 🎨 **[Paper – Oral]** Accepted at *FAIEMA 2025* ([September 18-19](https://www.faiema.org/))  
+  **Title:** *A Wavelet Diffusion Framework for Accelerated Generative Modeling with Lightweight Denoisers*  
+
 - 🧠 **[Paper – Oral]** Accepted at *MICCAI Workshop on Efficient Medical AI* ([September 23](https://sites.google.com/view/ema4miccai2025/programme?authuser=0))  
   **Title:** *RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation*  
 
@@ -117,9 +120,9 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   Chart.register(ChartDataLabels);
   const publicationData = {
     years: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
-    papersByYear: [2, 4, 3, 1, 4, 3, 1, 3, 8, 5, 10],
+    papersByYear: [2, 4, 3, 1, 4, 3, 1, 3, 8, 5, 11],
     authors: ['First', 'Last', 'Middle'],
-    authorsByOrder: [16, 18, 10],
+    authorsByOrder: [16, 18, 11],
   };
   // Papers per Year Chart
   new Chart(document.getElementById('papersPerYearChart'), {
@@ -195,7 +198,7 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   const studentsData = {
     levels: ['B.Sc.', 'M.Sc.', 'Ph.D.'],
     studentsByLevel: [10, 13, 3],
-    papersByLevel: [3, 11, 5],
+    papersByLevel: [4, 11, 5],
   };
   // Number of students per level chart
   new Chart(document.getElementById('studentsLevelChart'), {
