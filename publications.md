@@ -88,10 +88,14 @@ S. Winther Albertsen, H. Svaneborg Bjørnstrup, M. Mehdipour Ghazi
 *RARE-UNet: Resolution-aligned routing entry for adaptive medical image segmentation*, MICCAI 2025 Workshop on Efficient Medical AI, Daejeon, South Korea, September 2025.
 [Paper](https://doi.org/10.48550/arXiv.2507.15524) • [Code](https://github.com/simonsejse/RARE-UNet)  
 
+S. D. Said, T. Gholamalizadeh, M. Mehdipour Ghazi  
+*Tooth-Diffusion: Guided 3D CBCT synthesis with fine-grained tooth conditioning*, MICCAI 2025 Workshop on Oral and Dental Image Analysis, Daejeon, South Korea, September 2025.
+[Paper](https://doi.org/10.48550/arXiv.2508.14276) • [Code](https://github.com/djafar1/tooth-diffusion)  
+
 A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, A. S. Alatrany, J. R. Arnold, M. Mehdipour Ghazi  
 *Robust deep learning for myocardial scar segmentation in cardiac MRI with noisy labels*, Proceedings of the 28th International Conference on Medical Image Computing
 and Computer Assisted Intervention, Daejeon, South Korea, September 2025.
-[Paper](https://arxiv.org/abs/2506.21151) • [Code](https://github.com/Danialmoa/YoloSAM)  
+[Paper](https://doi.org/10.48550/arXiv.2506.21151) • [Code](https://github.com/Danialmoa/YoloSAM)  
 
 J. Machnio, S. N. Llambias, M. Nielsen, and M. Mehdipour Ghazi  
 *Towards scalable and robust white matter lesion localization via multimodal deep learning*, 2nd Sorbonne-Heidelberg Workshop on AI in Medicine: Machine Learning for Multi-Modal Data, Heidelberg, Germany, June 2025.
