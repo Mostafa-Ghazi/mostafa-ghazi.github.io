@@ -18,6 +18,18 @@ permalink: /students/
 - **Gabriel Sainz Vazquez** (M.Sc., University of Copenhagen, 2025–)  
   Project title: Counterfactual brain MRI generation with deep generative models  
 
+- **Danial Moafi** (M.Sc., University of Siena, 2025–)  
+  Project title: Interactive active learning for enhanced medical image segmentation  
+
+- **Martin Wardahl Zillmer** (M.Sc., University of Copenhagen, 2025–)  
+  Project title: Intracranial pressure estimation using CT scans of the brain  
+
+- **Rasmus Offenbach Larsen Voss** (B.Sc., University of Copenhagen, 2025–)  
+  Project title: High-quality image generation using frequency denoising diffusion models  
+
+- **Anders Hoeck** (B.Sc., University of Copenhagen, 2025–)  
+  Project title: High-quality image generation using frequency denoising diffusion models  
+
 - **Sara Leiva Montoya** (B.Sc., Universidad de los Andes, 2025)  
   Project title: Image segmentation using pretrained foundation models  
 
