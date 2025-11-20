@@ -76,6 +76,14 @@ M. Mehdipour Ghazi, A. Ramezani, M. Siahi, and M. Mehdipour Ghazi
 
 ## 📝 Conference & Workshop Papers
 
+J. Machnio, M. Nielsen, and M. Mehdipour Ghazi
+*Deep learning-based regional white matter hyperintensity mapping as a robust biomarker for Alzheimer's disease*, SPIE Medical Imaging Conference, Vancouver, Canada, February 2026.
+[Paper](https://doi.org/10.48550/arXiv.2511.14588)  
+
+N. Putera, D. V. Rodríguez, N. Videcrantz, J. Machnio, M. Nielsen, and M. Mehdipour Ghazi
+*MRI embeddings complement clinical predictors for cognitive decline modeling in Alzheimer's disease cohorts*, SPIE Medical Imaging Conference, Vancouver, Canada, February 2026.
+[Paper](https://doi.org/10.48550/arXiv.2511.14601)  
+
 J. Machnio, M. Nielsen, and M. Mehdipour Ghazi  
 *To label or not to label: PALM -- A predictive model for evaluating sample efficiency in active learning models*, Proceedings of the IEEE/CVF International Conference on Computer Vision, Honolulu, Hawai'i, October 2025.
 [Paper](https://doi.org/10.48550/arXiv.2507.15381) • [Code](https://github.com/juliamachnio/PALM)  
@@ -95,7 +103,7 @@ S. D. Said, T. Gholamalizadeh, M. Mehdipour Ghazi
 A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, A. S. Alatrany, J. R. Arnold, M. Mehdipour Ghazi  
 *Robust deep learning for myocardial scar segmentation in cardiac MRI with noisy labels*, Proceedings of the 28th International Conference on Medical Image Computing
 and Computer Assisted Intervention, Daejeon, South Korea, September 2025.
-[Paper](https://doi.org/10.48550/arXiv.2506.21151) • [Code](https://github.com/Danialmoa/YoloSAM)  
+[Paper](https://doi.org/10.1007/978-3-032-05169-1_51) • [Code](https://github.com/Danialmoa/YoloSAM)  
 
 J. Machnio, S. N. Llambias, M. Nielsen, and M. Mehdipour Ghazi  
 *Towards scalable and robust white matter lesion localization via multimodal deep learning*, 2nd Sorbonne-Heidelberg Workshop on AI in Medicine: Machine Learning for Multi-Modal Data, Heidelberg, Germany, June 2025.
@@ -103,11 +111,11 @@ J. Machnio, S. N. Llambias, M. Nielsen, and M. Mehdipour Ghazi
 
 S. N. Llambias, M. Nielsen, M. Mehdipour Ghazi  
 *Data augmentation-based unsupervised domain adaptation in medical imaging*, SCIA, Reykjavík, Iceland, June 2025.
-[Paper](https://doi.org/10.48550/arXiv.2308.04395) • [Code](https://github.com/Mostafa-Ghazi/MRI-Augmentation)  
+[Paper](https://doi.org/10.1007/978-3-031-95911-0_13) • [Code](https://github.com/Mostafa-Ghazi/MRI-Augmentation)  
 
 M. Mehdipour Ghazi and M. Nielsen  
 *FAST-AID Brain: Fast and accurate segmentation tool using artificial intelligence developed for brain*, Scandinavian Conference on Image Analysis, Reykjavík, Iceland, June 2025.
-[Paper](https://doi.org/10.48550/arXiv.2208.14360) • [Code](https://github.com/Mostafa-Ghazi/FAST-AID-Brain)  
+[Paper](https://doi.org/10.1007/978-3-031-95911-0_12) • [Code](https://github.com/Mostafa-Ghazi/FAST-AID-Brain)  
 
 J. Machnio, M. Nielsen, and M. Mehdipour Ghazi  
 *Deep learning for localization of white matter lesions in neurological diseases*, Proceedings of the 6th Northern Lights Deep Learning Conference, Tromsø, Norway, January 2025.
