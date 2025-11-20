@@ -24,12 +24,18 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 
 - 🦷 **[Paper – Poster]** Accepted at *MICCAI Workshop on Oral and Dental Image Analysis* ([September 27](https://odin-workshops.org/2025/schedule.html))  
   **Title:** *Tooth-Diffusion: Guided 3D CBCT Synthesis with Fine-Grained Tooth Conditioning*  
-  
+
 - 🏆 **[Challenge]** Organizing the *FOMO25 Challenge* at *MICCAI 2025* ([September 27](https://fomo25.github.io/organizers))  
   **Title:** *The First Foundation Model Challenge for Brain MRI*  
 
 - 🔍 **[Paper – Poster]** Accepted at *ICCV 2025* ([October 21–23](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers))  
   **Title:** *To Label or Not to Label: PALM – A Predictive Model for Evaluating Sample Efficiency in Active Learning Models*  
+
+- 🧠 **[Paper – Poster]** Accepted at *SPIE Medical Imaging* ([February 16](https://spie.org/medical-imaging/presentation/Deep-learningbased-regional-white-matter-hyperintensity-mapping-as-a-robust/13926-97))  
+  **Title:** *Deep Learning-Based Regional White Matter Hyperintensity Mapping as a Robust Biomarker for Alzheimer's Disease*  
+
+- 🧠 **[Paper – Poster]** Accepted at *SPIE Medical Imaging* ([February 16](https://spie.org/medical-imaging/presentation/MRI-embeddings-complement-clinical-predictors-for-cognitive-decline-modeling-in/13926-99))  
+  **Title:** *MRI Embeddings Complement Clinical Predictors for Cognitive Decline Modeling in Alzheimer's Disease Cohorts*  
 
 ---
 
@@ -106,7 +112,7 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 ## Contact
 
-I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested in computer vision, deep learning, and medical AI. If you are motivated and have a strong background in computer vision, machine learning, applied mathematics, or related areas, feel free to get in touch.  
+I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested in computer vision, deep learning, and medical AI. If you are motivated and have a strong background in computer vision, machine learning, applied mathematics, or a related field, please feel free to get in touch.  
 
 ✉️ **Email:** ghazi(at)di.ku.dk  
 🏛️ **Institution:** Pioneer Centre for AI, Department of Computer Science, University of Copenhagen  
@@ -120,9 +126,9 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   Chart.register(ChartDataLabels);
   const publicationData = {
     years: ['2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
-    papersByYear: [2, 4, 3, 1, 4, 3, 1, 3, 8, 5, 11],
+    papersByYear: [2, 4, 3, 1, 4, 3, 1, 3, 8, 5, 13],
     authors: ['First', 'Last', 'Middle'],
-    authorsByOrder: [16, 18, 11],
+    authorsByOrder: [16, 20, 11],
   };
   // Papers per Year Chart
   new Chart(document.getElementById('papersPerYearChart'), {
@@ -198,7 +204,7 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   const studentsData = {
     levels: ['B.Sc.', 'M.Sc.', 'Ph.D.'],
     studentsByLevel: [12, 15, 3],
-    papersByLevel: [4, 11, 5],
+    papersByLevel: [4, 12, 6],
   };
   // Number of students per level chart
   new Chart(document.getElementById('studentsLevelChart'), {
