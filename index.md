@@ -4,38 +4,38 @@ layout: default
 
 ## Welcome
 
-I am an Assistant Professor in AI at the Department of Computer Science, University of Copenhagen. My research focuses on deep generative models, robust representation learning, and medical data analysis. I work at the intersection of computer vision, health data science, and responsible AI. This website provides more information about my research, teaching, publications, and academic activities.
+I am an Assistant Professor in AI at the Department of Computer Science, University of Copenhagen. My research focuses on deep generative models, robust representation learning, and medical image analysis. I work at the intersection of computer vision, health data science, and responsible AI. This website provides more information about my research, teaching, publications, and academic activities.
 
 ---
 
 ## 🔔 News
 
-- 🎤 **[Talk]** Keynote speaker at *Computational Neuroscience – NAD Workshop* ([August 14](https://neuroscienceacademydenmark.dk/wp-content/uploads/2025/01/Programme-Computational-Neuroscience-NAD-Workshop-2025.pdf))  
-  **Title:** *AI-Assisted Disease Predictions*  
-
-- 🎨 **[Paper – Oral]** Accepted at *FAIEMA 2025* ([September 18-19](https://www.faiema.org/))  
-  **Title:** *A Wavelet Diffusion Framework for Accelerated Generative Modeling with Lightweight Denoisers*  
-
-- 🧠 **[Paper – Oral]** Accepted at *MICCAI Workshop on Efficient Medical AI* ([September 23](https://sites.google.com/view/ema4miccai2025/programme?authuser=0))  
-  **Title:** *RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation*  
-
-- 🫀 **[Paper – Oral]** Accepted at *MICCAI 2025* ([September 24–26](https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Program-Overview.pdf))  
-  **Title:** *Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels*  
-
-- 🦷 **[Paper – Poster]** Accepted at *MICCAI Workshop on Oral and Dental Image Analysis* ([September 27](https://odin-workshops.org/2025/schedule.html))  
-  **Title:** *Tooth-Diffusion: Guided 3D CBCT Synthesis with Fine-Grained Tooth Conditioning*  
-
-- 🏆 **[Challenge]** Organizing the *FOMO25 Challenge* at *MICCAI 2025* ([September 27](https://fomo25.github.io/organizers))  
-  **Title:** *The First Foundation Model Challenge for Brain MRI*  
+- 🧠 **[Paper – Poster]** Accepted at *SPIE Medical Imaging* ([February 16](https://spie.org/medical-imaging/presentation/MRI-embeddings-complement-clinical-predictors-for-cognitive-decline-modeling-in/13926-99))  
+  **Title:** *MRI Embeddings Complement Clinical Predictors for Cognitive Decline Modeling in Alzheimer's Disease Cohorts*  
+  
+- 🧠 **[Paper – Poster]** Accepted at *SPIE Medical Imaging* ([February 16](https://spie.org/medical-imaging/presentation/Deep-learningbased-regional-white-matter-hyperintensity-mapping-as-a-robust/13926-97))  
+  **Title:** *Deep Learning-Based Regional White Matter Hyperintensity Mapping as a Robust Biomarker for Alzheimer's Disease*  
 
 - 🔍 **[Paper – Poster]** Accepted at *ICCV 2025* ([October 21–23](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers))  
   **Title:** *To Label or Not to Label: PALM – A Predictive Model for Evaluating Sample Efficiency in Active Learning Models*  
 
-- 🧠 **[Paper – Poster]** Accepted at *SPIE Medical Imaging* ([February 16](https://spie.org/medical-imaging/presentation/Deep-learningbased-regional-white-matter-hyperintensity-mapping-as-a-robust/13926-97))  
-  **Title:** *Deep Learning-Based Regional White Matter Hyperintensity Mapping as a Robust Biomarker for Alzheimer's Disease*  
+- 🏆 **[Challenge]** Organizing the *FOMO25 Challenge* at *MICCAI 2025* ([September 27](https://fomo25.github.io/organizers))  
+  **Title:** *The First Foundation Model Challenge for Brain MRI*  
 
-- 🧠 **[Paper – Poster]** Accepted at *SPIE Medical Imaging* ([February 16](https://spie.org/medical-imaging/presentation/MRI-embeddings-complement-clinical-predictors-for-cognitive-decline-modeling-in/13926-99))  
-  **Title:** *MRI Embeddings Complement Clinical Predictors for Cognitive Decline Modeling in Alzheimer's Disease Cohorts*  
+- 🦷 **[Paper – Poster]** Accepted at *MICCAI Workshop on Oral and Dental Image Analysis* ([September 27](https://odin-workshops.org/2025/schedule.html))  
+  **Title:** *Tooth-Diffusion: Guided 3D CBCT Synthesis with Fine-Grained Tooth Conditioning*  
+
+- 🫀 **[Paper – Oral]** Accepted at *MICCAI 2025* ([September 24–26](https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Program-Overview.pdf))  
+  **Title:** *Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels*  
+
+- 🧠 **[Paper – Oral]** Accepted at *MICCAI Workshop on Efficient Medical AI* ([September 23](https://sites.google.com/view/ema4miccai2025/programme?authuser=0))  
+  **Title:** *RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation*  
+
+- 🎨 **[Paper – Oral]** Accepted at *FAIEMA 2025* ([September 18-19](https://www.faiema.org/))  
+  **Title:** *A Wavelet Diffusion Framework for Accelerated Generative Modeling with Lightweight Denoisers*  
+    
+- 🎤 **[Talk]** Keynote speaker at *Computational Neuroscience – NAD Workshop* ([August 14](https://neuroscienceacademydenmark.dk/wp-content/uploads/2025/01/Programme-Computational-Neuroscience-NAD-Workshop-2025.pdf))  
+  **Title:** *AI-Assisted Disease Predictions*  
 
 ---
 
@@ -54,16 +54,16 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 - **Deep Generative Models for Images** 🎨🖼️⚖️🔐  
   Generative adversarial networks, variational autoencoders, and denoising diffusion models  
-  Bias mitigation, fairness, privacy, and quality assessment  
+  Bias mitigation, fairness, explainability, and quality assessment  
 
 - **Robust Representation Learning** 🤖🔍🔄📊  
   Unsupervised, self-supervised, and active learning  
-  Transfer learning, domain adaptation, and data augmentation   
-  Multimodal, heterogeneous, and time-series data  
+  Transfer learning, domain adaptation, and data augmentation  
+  Large vision models, efficient fine-tuning, and OOD generalization  
 
-- **Brain Health Data Analysis** 🧠🧬📈🧫  
+- **Medical Image Analysis** 🧠🧬📈🧫  
   Disease progression modeling and prediction  
-  Alzheimer’s disease, stroke, tumors, and psychiatric disorders  
+  Alzheimer’s disease, aging, stroke, tumors, lesions, and disorders  
 
 ---
 
