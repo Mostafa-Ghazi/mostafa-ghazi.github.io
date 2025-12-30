@@ -18,6 +18,18 @@ permalink: /students/
 - **Danial Moafi** (M.Sc., University of Siena, 2025–)  
   Project title: Interactive active learning for enhanced medical image segmentation  
 
+- **Noah Videcrantz** (M.Sc., University of Copenhagen, 2026–)  
+  Project title: A unified active learning framework for optimizing the augmentation strategies  
+
+- **Adam Bruun Faber** (M.Sc., University of Copenhagen, 2026–)  
+  Project title: Efficient task-specific fine-tuning in optimized low-dimensional subspaces  
+
+- **Daniel Klaaby** (M.Sc., University of Copenhagen, 2026–)  
+  Project title: MRI quality assessment and generation using conditional diffusion models  
+
+- **Mehmet Ilker Ünsal** (M.Sc., University of Copenhagen, 2026–)  
+  Project title: Segmentation-based brain pressure estimation with the concept bottleneck  
+  
 - **Martin Wardahl Zillmer** (M.Sc., University of Copenhagen, 2025–)  
   Project title: Deep learning-based intracranial pressure estimation using CT scans of the brain  
 
@@ -33,7 +45,7 @@ permalink: /students/
 - **Manuela Del Castillo Suero** (M.Sc., University of Copenhagen, 2025–)  
   Project title: Deep learning-based pituitary gland/adenoma segmentation using brain MRIs  
 
-- **Sola Corrado** (B.Sc., Duke University, 2025-)  
+- **Sola Corrado** (B.Sc., Duke University, 2025)  
   Project title: Active learning for medical image classification and segmentation  
 
 - **Sara Leiva Montoya** (B.Sc., Universidad de los Andes, 2025)  
