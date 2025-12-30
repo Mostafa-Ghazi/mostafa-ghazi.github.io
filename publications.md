@@ -6,12 +6,16 @@ permalink: /publications/
 
 ## 📄 Journal Articles
 
+M. Mehdipour Ghazi
+*Designing an engaging curriculum for advanced topics in deep learning: A pedagogical development project*, Improving University Science Teaching and Learning, vol. 21, pp. 1–9, 2025.
+[Paper](https://tidsskrift.dk/IUSTL/article/view/159985/201784)  
+
 M. Mehdipour Ghazi, O. Urdanibia-Centelles, A. Bakhtiari, B. Fagerlund, M. B. Vestergaard, H. B. W. Larsson, E. L. Mortensen, M. Osler, M. Nielsen, K. Benedek, and M. Lauritzen  
-*Cognitive aging and reserve factors in the Metropolit 1953 Danish male cohort*, GeroScience, 2024.
+*Cognitive aging and reserve factors in the Metropolit 1953 Danish male cohort*, GeroScience, vol. 47, pp. 2475–2493, 2024.
 [Paper](https://doi.org/10.1007/s11357-024-01427-2)  
 
 M. Mehdipour Ghazi, P. Selnes, S. T. Reina, S. Tecelao, S. Ingala, A. Bjørnerud, B. Kirsebom, T. Fladby, and M. Nielsen  
-*Comparative analysis of multimodal biomarkers for amyloid-beta positivity detection in Alzheimer’s disease cohorts*, Frontiers in Aging Neuroscience, vol. 16, 2024.
+*Comparative analysis of multimodal biomarkers for amyloid-beta positivity detection in Alzheimer’s disease cohorts*, Frontiers in Aging Neuroscience, vol. 16, p. 1345417, 2024.
 [Paper](https://doi.org/10.3389/fnagi.2024.1345417)  
 
 N. R. Ferrer, M. V. Sagar, M. Mehdipour Ghazi, K. V. Klein, E. Jimenez-Solem, M. Nielsen, and C. Kruuse  
@@ -188,7 +192,10 @@ A. Shojaei-Hashemi, M. Mehdipour Ghazi, Sh. Ghaemmaghami, H. Soltanian-Zadeh
 
 ## 🧠 Clinical Abstracts
 
-A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, J. R. Arnold, M. Mehdipour Ghazi  
+A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, M. Mehdipour Ghazi, and J. R. Arnold
+*Interactive deep learning system for myocardial scar mass quantification in post-infarction cardiovascular magnetic resonance*, ESC Digital Health & AI Summit, Berlin, Germany, November 2025.
+
+A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, J. R. Arnold, and M. Mehdipour Ghazi  
 *Myocardial scar segmentation using a human-guided foundation model*, MIUA 2025, Leeds, United Kingdom, July 2025.
 [Paper](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790)  
 
