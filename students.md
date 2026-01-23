@@ -30,19 +30,19 @@ permalink: /students/
 - **Mehmet Ilker Ünsal** (M.Sc., University of Copenhagen, 2026–)  
   Project title: Segmentation-based brain pressure estimation with the concept bottleneck  
   
-- **Martin Wardahl Zillmer** (M.Sc., University of Copenhagen, 2025–)  
+- **Martin Wardahl Zillmer** (M.Sc., University of Copenhagen, 2025)  
   Project title: Deep learning-based intracranial pressure estimation using CT scans of the brain  
 
-- **Rasmus Offenbach Larsen Voss** (B.Sc., University of Copenhagen, 2025–)  
+- **Rasmus Offenbach Larsen Voss** (B.Sc., University of Copenhagen, 2025)  
   Project title: High-quality image generation using frequency denoising diffusion models  
 
-- **Anders Hoeck** (B.Sc., University of Copenhagen, 2025–)  
+- **Anders Hoeck** (B.Sc., University of Copenhagen, 2025)  
   Project title: High-quality image generation using frequency denoising diffusion models  
 
-- **Andrea Zeuthen Heidam** (M.Sc., University of Copenhagen, 2025–)  
+- **Andrea Zeuthen Heidam** (M.Sc., University of Copenhagen, 2025)  
   Project title: A machine learning framework for predictive modeling of cardiovascular disease  
 
-- **Manuela Del Castillo Suero** (M.Sc., University of Copenhagen, 2025–)  
+- **Manuela Del Castillo Suero** (M.Sc., University of Copenhagen, 2025)  
   Project title: Deep learning-based pituitary gland/adenoma segmentation using brain MRIs  
 
 - **Sola Corrado** (B.Sc., Duke University, 2025)  
