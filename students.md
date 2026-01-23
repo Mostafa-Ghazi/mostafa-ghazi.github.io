@@ -13,7 +13,7 @@ permalink: /students/
 
 - **Aida Moafi** (Ph.D., University of Leicester, 2024–)  
   Project title: Cardiac fibrosis and scar segmentation from MRIs using deep learning  
-  [Paper 1](https://doi.org/10.1007/978-3-032-05169-1_51) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790)  
+  [Paper 1](https://doi.org/10.1007/978-3-032-05169-1_51) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790) • [Paper 3](https://doi.org/10.1093/ehjdh/ztaf143.048)  
 
 - **Danial Moafi** (M.Sc., University of Siena, 2025–)  
   Project title: Interactive active learning for enhanced medical image segmentation  
@@ -65,6 +65,9 @@ permalink: /students/
 - **Markos Aivazoglou Vounatsos** (M.Sc., University of Copenhagen, 2025)  
   Project title: High-quality image synthesis using efficient denoising diffusion models  
   [Paper 1](https://doi.org/10.48550/arXiv.2507.15381)  
+
+- **Kim Michael Lundemo** (B.Sc., University of Copenhagen, 2025)  
+  Project title: Foundation models with low-rank adaptation for fetal ultrasound images  
 
 - **Simon Winther Albertsen** (B.Sc., University of Copenhagen, 2025)  
   Project title: Multiscale medical image segmentation with deep learning models  
