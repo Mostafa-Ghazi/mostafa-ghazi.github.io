@@ -18,6 +18,15 @@ permalink: /students/
 - **Danial Moafi** (M.Sc., University of Siena, 2025–)  
   Project title: Interactive active learning for enhanced medical image segmentation  
 
+- **Thomas Nielsen** (B.Sc., University of Copenhagen, 2025)  
+  Project title: Efficient deep learning for pose estimation, object detection, and tracking in hammer throw performance analysis  
+
+- **Andreas Sebastian Melbye** (B.Sc., University of Copenhagen, 2025)  
+  Project title: Efficient deep learning for pose estimation, object detection, and tracking in hammer throw performance analysis  
+
+- **Julia Anna Mielcarz** (M.Sc., University of Copenhagen, 2026–)  
+  Project title: Rethinking image quality metrics for diffusion-based missing modality completion  
+
 - **Noah Videcrantz** (M.Sc., University of Copenhagen, 2026–)  
   Project title: A unified active learning framework for optimizing the augmentation strategies  
 
@@ -27,9 +36,6 @@ permalink: /students/
 - **Daniel Klaaby** (M.Sc., University of Copenhagen, 2026–)  
   Project title: MRI quality assessment and generation using conditional diffusion models  
 
-- **Mehmet Ilker Ünsal** (M.Sc., University of Copenhagen, 2026–)  
-  Project title: Segmentation-based brain pressure estimation with the concept bottleneck  
-  
 - **Martin Wardahl Zillmer** (M.Sc., University of Copenhagen, 2025)  
   Project title: Deep learning-based intracranial pressure estimation using CT scans of the brain  
 
