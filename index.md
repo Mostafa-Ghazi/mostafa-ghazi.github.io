@@ -15,57 +15,66 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 <ul>
 
 <li>
-🧠 <strong>[Paper – Poster]<strong> Accepted at <em>SPIE Medical Imaging<em> (<a href="https://spie.org/medical-imaging/presentation/MRI-embeddings-complement-clinical-predictors-for-cognitive-decline-modeling-in/13926-99">February 16</a>)
+🧠 <strong>[Paper – Poster]</strong> Accepted at <em>SPIE Medical Imaging</em> 
+(<a href="https://spie.org/medical-imaging/presentation/MRI-embeddings-complement-clinical-predictors-for-cognitive-decline-modeling-in/13926-99">February 16</a>)
 <br>
-<strong>Title:<strong> <em>MRI Embeddings Complement Clinical Predictors for Cognitive Decline Modeling in Alzheimer's Disease Cohorts<em>
+<strong>Title:</strong> <em>MRI Embeddings Complement Clinical Predictors for Cognitive Decline Modeling in Alzheimer's Disease Cohorts</em>
 </li>  
 
 <li>
-🧠 <strong>[Paper – Poster]<strong> Accepted at <em>SPIE Medical Imaging<em> (<a href="https://spie.org/medical-imaging/presentation/Deep-learningbased-regional-white-matter-hyperintensity-mapping-as-a-robust/13926-97">February 16</a>)
+🧠 <strong>[Paper – Poster]</strong> Accepted at <em>SPIE Medical Imaging</em> 
+(<a href="https://spie.org/medical-imaging/presentation/Deep-learningbased-regional-white-matter-hyperintensity-mapping-as-a-robust/13926-97">February 16</a>)
 <br>
-<strong>Title:<strong> <em>Deep Learning-Based Regional White Matter Hyperintensity Mapping as a Robust Biomarker for Alzheimer's Disease<em>
+<strong>Title:</strong> <em>Deep Learning-Based Regional White Matter Hyperintensity Mapping as a Robust Biomarker for Alzheimer's Disease</em>
 </li>  
 
 <li>
-🔍 <strong>[Paper – Poster]<strong> Accepted at <em>ICCV 2025<em> (<a href="https://iccv.thecvf.com/Conferences/2025/AcceptedPapers">October 21–23</a>)
+🔍 <strong>[Paper – Poster]</strong> Accepted at <em>ICCV 2025</em> 
+(<a href="https://iccv.thecvf.com/Conferences/2025/AcceptedPapers">October 21–23</a>)
 <br>
-<strong>Title:<strong> <em>To Label or Not to Label: PALM – A Predictive Model for Evaluating Sample Efficiency in Active Learning Models<em>
+<strong>Title:</strong> <em>To Label or Not to Label: PALM – A Predictive Model for Evaluating Sample Efficiency in Active Learning Models</em>
 </li>  
 
 <li>
-🏆 <strong>[Challenge]<strong> Organizing the <em>FOMO25 Challenge<em> at <em>MICCAI 2025<em> (<a href="https://fomo25.github.io/organizers">September 27</a>)
+🏆 <strong>[Challenge]</strong> Organizing the <em>FOMO25 Challenge</em> at <em>MICCAI 2025</em> 
+(<a href="https://fomo25.github.io/organizers">September 27</a>)
 <br>
-<strong>Title:<strong> <em>The First Foundation Model Challenge for Brain MRI<em>
+<strong>Title:</strong> <em>The First Foundation Model Challenge for Brain MRI</em>
 </li>  
 
 <li>
-🦷 <strong>[Paper – Poster]<strong> Accepted at <em>MICCAI Workshop on Oral and Dental Image Analysis<em> (<a href="https://odin-workshops.org/2025/schedule.html">September 27</a>)
+🦷 <strong>[Paper – Poster]</strong> Accepted at <em>MICCAI Workshop on Oral and Dental Image Analysis</em> 
+(<a href="https://odin-workshops.org/2025/schedule.html">September 27</a>)
 <br>
-<strong>Title:<strong> <em>Tooth-Diffusion: Guided 3D CBCT Synthesis with Fine-Grained Tooth Conditioning<em>
+<strong>Title:</strong> <em>Tooth-Diffusion: Guided 3D CBCT Synthesis with Fine-Grained Tooth Conditioning</em>
 </li>  
 
 <li>
-🫀 <strong>[Paper – Oral]<strong> Accepted at <em>MICCAI 2025<em> (<a href="https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Program-Overview.pdf">September 24–26</a>)
+🫀 <strong>[Paper – Oral]</strong> Accepted at <em>MICCAI 2025</em> 
+(<a href="https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Program-Overview.pdf">September 24–26</a>)
 <br>
-<strong>Title:<strong> <em>Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels<em>
+<strong>Title:</strong> <em>Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels</em>
 </li>  
 
 <li>
-🧠 <strong>[Paper – Oral]<strong> Accepted at <em>MICCAI Workshop on Efficient Medical AI<em> (<a href="https://sites.google.com/view/ema4miccai2025/programme?authuser=0">September 23</a>)
+🧠 <strong>[Paper – Oral]</strong> Accepted at <em>MICCAI Workshop on Efficient Medical AI</em> 
+(<a href="https://sites.google.com/view/ema4miccai2025/programme?authuser=0">September 23</a>)
 <br>
-<strong>Title:<strong> <em>RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation<em>
+<strong>Title:</strong> <em>RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation</em>
 </li>  
 
 <li>
-🎨 <strong>[Paper – Oral]<strong> Accepted at <em>FAIEMA 2025<em> (<a href="https://www.faiema.org/2025">September 18-19</a>)
+🎨 <strong>[Paper – Oral]</strong> Accepted at <em>FAIEMA 2025</em> 
+(<a href="https://www.faiema.org/2025">September 18-19</a>)
 <br>
-<strong>Title:<strong> <em>A Wavelet Diffusion Framework for Accelerated Generative Modeling with Lightweight Denoisers<em>
+<strong>Title:</strong> <em>A Wavelet Diffusion Framework for Accelerated Generative Modeling with Lightweight Denoisers</em>
 </li>  
 
 <li>
-🎤 <strong>[Talk]<strong> Keynote speaker at <em>Computational Neuroscience – NAD Workshop<em> (<a href="https://neuroscienceacademydenmark.dk/wp-content/uploads/2025/01/Programme-Computational-Neuroscience-NAD-Workshop-2025.pdf">August 14</a>)
+🎤 <strong>[Talk]</strong> Keynote speaker at <em>Computational Neuroscience – NAD Workshop</em> 
+(<a href="https://neuroscienceacademydenmark.dk/wp-content/uploads/2025/01/Programme-Computational-Neuroscience-NAD-Workshop-2025.pdf">August 14</a>)
 <br>
-<strong>Title:<strong> <em>AI-Assisted Disease Predictions<em>
+<strong>Title:</strong> <em>AI-Assisted Disease Predictions</em>
 </li>  
 
 </ul>
