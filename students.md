@@ -13,10 +13,11 @@ permalink: /students/
 
 - **Aida Moafi** (Ph.D., University of Leicester, 2024–)  
   Project title: Cardiac fibrosis and scar segmentation from MRIs using deep learning  
-  [Paper 1](https://doi.org/10.1007/978-3-032-05169-1_51) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790) • [Paper 3](https://doi.org/10.1093/ehjdh/ztaf143.048)  
+  [Paper 1](https://doi.org/10.1007/978-3-032-05169-1_51) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790) • [Paper 3](https://doi.org/10.1093/ehjdh/ztaf143.048) • [Paper 4](https://doi.org/10.1016/j.jocmr.2026.102720)  
 
 - **Danial Moafi** (M.Sc., University of Siena, 2025–)  
   Project title: Interactive active learning for enhanced medical image segmentation  
+  [Paper 1](https://doi.org/10.1007/978-3-032-05169-1_51) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790) • [Paper 3](https://doi.org/10.1093/ehjdh/ztaf143.048) • [Paper 4](https://doi.org/10.1016/j.jocmr.2026.102720)  
 
 - **Thomas Nielsen** (B.Sc., University of Copenhagen, 2025)  
   Project title: Efficient deep learning for pose estimation, object detection, and tracking in hammer throw performance analysis  
@@ -47,9 +48,11 @@ permalink: /students/
 
 - **Andrea Zeuthen Heidam** (M.Sc., University of Copenhagen, 2025)  
   Project title: A machine learning framework for predictive modeling of cardiovascular disease  
+  [Code 1](https://github.com/andreazheidam/Predictive-Modelling-in-Cardiology)  
 
 - **Manuela Del Castillo Suero** (M.Sc., University of Copenhagen, 2025)  
   Project title: Deep learning-based pituitary gland/adenoma segmentation using brain MRIs  
+  [Code 1](https://github.com/madelsu/pituitary-adenoma-segmentation-nnunet)  
 
 - **Sola Corrado** (B.Sc., Duke University, 2025)  
   Project title: Active learning for medical image classification and segmentation  
@@ -100,6 +103,7 @@ permalink: /students/
 
 - **Noah Videcrantz** (B.Sc., University of Copenhagen, 2024)  
   Project title: Reconstructing 3D brain images for domain adaptation using deep learning  
+  [Paper 1](https://doi.org/10.48550/arXiv.2511.14601)  
 
 - **Nikolaj Søberg Lerke** (B.Sc., University of Copenhagen, 2024)  
   Project title: Inspecting privacy preservation in generative medical imaging  
