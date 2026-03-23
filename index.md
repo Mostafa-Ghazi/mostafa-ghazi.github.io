@@ -10,7 +10,7 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 
 ## 🔔 News
 
-<div style="max-height: 200px; overflow-y: auto; padding: 10px; mask-image: linear-gradient(to bottom, black 80%, transparent);">
+<div style="max-height: 160px; overflow-y: auto; padding: 5px; mask-image: linear-gradient(to bottom, black 80%, transparent);">
 
 <ul>
 
