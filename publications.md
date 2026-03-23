@@ -6,6 +6,18 @@ permalink: /publications/
 
 ## 📄 Journal Articles
 
+A. Moafi, D. Moafi, S. Shergil, E. M. Mirkes, D. Adlam, N. Samani, C. A. Budgeon, G. P. McCann, J. R. Arnold, and M. Mehdipour Ghazi  
+*Interactive deep learning for myocardial scar segmentation using cardiovascular magnetic resonance: A clinically deployable framework*, Journal of Cardiovascular Magnetic Resonance, p. 102720, 2026.
+[Paper](https://doi.org/10.1016/j.jocmr.2026.102720) • [Code](https://github.com/Danialmoa/SAM-MedUI)  
+
+K. J. Jacobsen, M. Mehdipour Ghazi, R. M. Nielsen, E. H. N. Ng, N. Shenton, L. S. Kristensen, O. Urdanibia-Centelles, S. K. Arvedsen, H. B. W. Larsson, M. B. Vestergaard, M. Lauritzen, and K. Benedek  
+*Predicting cognitive performance and brain structure from hearing assessments in healthy aging males: A longitudinal cohort study*, The Lancet Healthy Longevity, 2026.
+[Paper](http://dx.doi.org/10.2139/ssrn.6437130)  
+
+S. Cerri, V. Nersesjan, K. V. Klein, E. C. Cóppulo, S. N. Llambias, M. Mehdipour Ghazi, M. Nielsen, M. E. Benros  
+*Cross-disorder comparison of brain structures among 4,836 individuals with mental disorders and controls utilizing Danish population-based clinical MRI scans*, Molecular Psychiatry, 2026.
+[Paper](https://doi.org/10.1101/2025.03.19.25324239)  
+
 M. Mehdipour Ghazi
 *Designing an engaging curriculum for advanced topics in deep learning: A pedagogical development project*, Improving University Science Teaching and Learning, vol. 21, pp. 1–9, 2025.
 [Paper](https://tidsskrift.dk/IUSTL/article/view/159985/201784)  
@@ -60,10 +72,6 @@ M. Mehdipour Ghazi and H. Erdogan
 
 
 ## 📘 Peer-Reviewed Preprints
-
-S. Cerri, V. Nersesjan, K. V. Klein, E. C. Cóppulo, S. N. Llambias, M. Mehdipour Ghazi, M. Nielsen, M. E. Benros  
-*Cross-disorder comparison of brain structures among 4,842 individuals with mental disorders and controls utilizing Danish population-based clinical MRI scans*, medRxiv, 2025.
-[Paper](https://doi.org/10.1101/2025.03.19.25324239)  
 
 A. Munk, S. Cerri, J. Ambsdorf, J. Machnio, S. N. Llambias, V. Nersesjan, C. H. Krag, P. Liu, P. R. García, M. Mehdipour Ghazi, M. Boesen, M. E. Benros, J. E. Iglesias, M. Nielsen  
 *A large-scale heterogeneous 3D magnetic resonance brain imaging dataset for self-supervised learning*, arXiv preprint arXiv:2506.14432, 2025.
@@ -192,8 +200,9 @@ A. Shojaei-Hashemi, M. Mehdipour Ghazi, Sh. Ghaemmaghami, H. Soltanian-Zadeh
 
 ## 🧠 Clinical Abstracts
 
-A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, M. Mehdipour Ghazi, and J. R. Arnold
-*Interactive deep learning system for myocardial scar mass quantification in post-infarction cardiovascular magnetic resonance*, ESC Digital Health & AI Summit, Berlin, Germany, November 2025.
+A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, J. R. Arnold, and M. Mehdipour Ghazi  
+*Interactive deep learning system for myocardial scar mass quantification in post-infarction cardiovascular magnetic resonance*, European Heart Journal - Digital Health, Berlin, Germany, November 2025.
+[Paper](https://doi.org/10.1093/ehjdh/ztaf143.048)  
 
 A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, J. R. Arnold, and M. Mehdipour Ghazi  
 *Myocardial scar segmentation using a human-guided foundation model*, MIUA 2025, Leeds, United Kingdom, July 2025.
