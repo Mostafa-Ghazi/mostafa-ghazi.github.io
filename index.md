@@ -10,32 +10,58 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 
 ## 🔔 News
 
+<div style="max-height: 200px; overflow-y: auto; padding: 10px; mask-image: linear-gradient(to bottom, black 80%, transparent);">
+
+<ul>
+
+<li>
 - 🧠 **[Paper – Poster]** Accepted at *SPIE Medical Imaging* ([February 16](https://spie.org/medical-imaging/presentation/MRI-embeddings-complement-clinical-predictors-for-cognitive-decline-modeling-in/13926-99))  
-  **Title:** *MRI Embeddings Complement Clinical Predictors for Cognitive Decline Modeling in Alzheimer's Disease Cohorts*  
-  
+  **Title:** *MRI Embeddings Complement Clinical Predictors for Cognitive Decline Modeling in Alzheimer's Disease Cohorts*
+</li>  
+
+<li>
 - 🧠 **[Paper – Poster]** Accepted at *SPIE Medical Imaging* ([February 16](https://spie.org/medical-imaging/presentation/Deep-learningbased-regional-white-matter-hyperintensity-mapping-as-a-robust/13926-97))  
-  **Title:** *Deep Learning-Based Regional White Matter Hyperintensity Mapping as a Robust Biomarker for Alzheimer's Disease*  
+  **Title:** *Deep Learning-Based Regional White Matter Hyperintensity Mapping as a Robust Biomarker for Alzheimer's Disease*
+</li>  
 
+<li>
 - 🔍 **[Paper – Poster]** Accepted at *ICCV 2025* ([October 21–23](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers))  
-  **Title:** *To Label or Not to Label: PALM – A Predictive Model for Evaluating Sample Efficiency in Active Learning Models*  
+  **Title:** *To Label or Not to Label: PALM – A Predictive Model for Evaluating Sample Efficiency in Active Learning Models*
+</li>  
 
+<li>
 - 🏆 **[Challenge]** Organizing the *FOMO25 Challenge* at *MICCAI 2025* ([September 27](https://fomo25.github.io/organizers))  
-  **Title:** *The First Foundation Model Challenge for Brain MRI*  
+  **Title:** *The First Foundation Model Challenge for Brain MRI*
+</li>  
 
+<li>
 - 🦷 **[Paper – Poster]** Accepted at *MICCAI Workshop on Oral and Dental Image Analysis* ([September 27](https://odin-workshops.org/2025/schedule.html))  
-  **Title:** *Tooth-Diffusion: Guided 3D CBCT Synthesis with Fine-Grained Tooth Conditioning*  
+  **Title:** *Tooth-Diffusion: Guided 3D CBCT Synthesis with Fine-Grained Tooth Conditioning*
+</li>  
 
+<li>
 - 🫀 **[Paper – Oral]** Accepted at *MICCAI 2025* ([September 24–26](https://conferences.miccai.org/2025/files/downloads/MICCAI2025-Program-Overview.pdf))  
-  **Title:** *Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels*  
+  **Title:** *Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels*
+</li>  
 
+<li>
 - 🧠 **[Paper – Oral]** Accepted at *MICCAI Workshop on Efficient Medical AI* ([September 23](https://sites.google.com/view/ema4miccai2025/programme?authuser=0))  
-  **Title:** *RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation*  
+  **Title:** *RARE-UNet: Resolution-Aligned Routing Entry for Adaptive Medical Image Segmentation*
+</li>  
 
+<li>
 - 🎨 **[Paper – Oral]** Accepted at *FAIEMA 2025* ([September 18-19](https://www.faiema.org/))  
-  **Title:** *A Wavelet Diffusion Framework for Accelerated Generative Modeling with Lightweight Denoisers*  
-    
+  **Title:** *A Wavelet Diffusion Framework for Accelerated Generative Modeling with Lightweight Denoisers*
+</li>  
+
+<li>
 - 🎤 **[Talk]** Keynote speaker at *Computational Neuroscience – NAD Workshop* ([August 14](https://neuroscienceacademydenmark.dk/wp-content/uploads/2025/01/Programme-Computational-Neuroscience-NAD-Workshop-2025.pdf))  
-  **Title:** *AI-Assisted Disease Predictions*  
+  **Title:** *AI-Assisted Disease Predictions*
+</li>  
+
+</ul>
+
+</div>
 
 ---
 
