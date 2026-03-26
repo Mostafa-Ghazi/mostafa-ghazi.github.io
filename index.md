@@ -113,6 +113,7 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 ## Teaching
 
+- Advanced Topics in Deep Learning ([Fall 2026](https://kurser.ku.dk/course/ndak24003u/2026-2027))  
 - Introduction to Data Science ([Spring 2026](https://kurser.ku.dk/course/ndak16003u))  
 - Advanced Topics in Deep Learning ([Fall 2025](https://kurser.ku.dk/course/ndak24003u/2025-2026))  
 - Introduction to Data Science ([Spring 2025](https://kurser.ku.dk/course/ndak16003u))  
