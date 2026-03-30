@@ -200,23 +200,23 @@ A. Shojaei-Hashemi, M. Mehdipour Ghazi, Sh. Ghaemmaghami, H. Soltanian-Zadeh
 
 ## 🧠 Clinical Abstracts
 
-A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, J. R. Arnold, and M. Mehdipour Ghazi  
+**[A5]** A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, J. R. Arnold, and M. Mehdipour Ghazi  
 *Interactive deep learning system for myocardial scar mass quantification in post-infarction cardiovascular magnetic resonance*, European Heart Journal - Digital Health, Berlin, Germany, November 2025.
 [Paper](https://doi.org/10.1093/ehjdh/ztaf143.048)  
 
-A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, J. R. Arnold, and M. Mehdipour Ghazi  
+**[A4]** A. Moafi, D. Moafi, E. M. Mirkes, G. P. McCann, J. R. Arnold, and M. Mehdipour Ghazi  
 *Myocardial scar segmentation using a human-guided foundation model*, MIUA 2025, Leeds, United Kingdom, July 2025.
 [Paper](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790)  
 
-K. V. Klein, M. Mehdipour Ghazi, C. Rostrup, B. H. Hestoy, W. L. Pedersen, M. Diamant, and M. Nielsen  
+**[A3]** K. V. Klein, M. Mehdipour Ghazi, C. Rostrup, B. H. Hestoy, W. L. Pedersen, M. Diamant, and M. Nielsen  
 *Automatic brain MRI segmentation quality control for more reliable study outcomes*, RSNA 2023, Chicago, United States, November 2023.
 [Paper](https://www.rsna.org/-/media/files/rsna/annual-meeting/future-and-past-meetings/rsna-2023-meeting-program.pdf#page=2275)  
 
-M. Mehdipour Ghazi, L. Sørensen, A. Pai, M. J. Cardoso, M. Modat, S. Ourselin, and M. Nielsen  
+**[A2]** M. Mehdipour Ghazi, L. Sørensen, A. Pai, M. J. Cardoso, M. Modat, S. Ourselin, and M. Nielsen  
 *Disease progression modeling‐based prediction of cognitive decline*, Alzheimer's Association International Conference, Amsterdam, the Netherlands, July 2020.
 [Paper](https://doi.org/10.1002/alz.043850)  
 
-M. Mehdipour Ghazi, M. Nielsen, A. Pai, M. Modat, M. J. Cardoso, S. Ourselin, and L. Sørensen  
+**[A1]** M. Mehdipour Ghazi, M. Nielsen, A. Pai, M. Modat, M. J. Cardoso, S. Ourselin, and L. Sørensen  
 *MRI biomarkers improve disease progression modeling-based prediction of cognitive decline*, RSNA 2019-105th Scientific Assembly and Annual Meeting, Illinois, United States, December 2019.
 [Paper](http://archive.rsna.org/2019/19022191.html)  
 
