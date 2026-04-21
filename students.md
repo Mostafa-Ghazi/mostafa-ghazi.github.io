@@ -6,16 +6,16 @@ permalink: /students/
 
 - **Julia Machnio** (Ph.D., University of Copenhagen, 2024–)  
   Project title: A fine-grained analysis of brain imaging abnormalities using active learning  
-  [Paper 1](https://openreview.net/pdf?id=ea0YJaJShO) • [Paper 2](https://doi.org/10.48550/arXiv.2506.22041) • [Paper 3](https://doi.org/10.48550/arXiv.2507.15381) • [Paper 4](https://doi.org/10.48550/arXiv.2511.14588)  
+  [Paper 1](https://openreview.net/pdf?id=ea0YJaJShO) • [Paper 2](https://doi.org/10.48550/arXiv.2506.22041) • [Paper 3](https://doi.org/10.48550/arXiv.2507.15381) • [Paper 4](https://doi.org/10.1117/12.3087645)  
 
 - **Ida Brandt Andersen** (Ph.D., University of Copenhagen, 2024–)  
   Project title: Predicting risk of surgery, tumor growth, and endocrine failure using AI  
 
-- **Aida Moafi** (Ph.D., University of Leicester, 2024–)  
+- **Aida Moafi** (Ph.D., University of Leicester, 2024–2026)  
   Project title: Cardiac fibrosis and scar segmentation from MRIs using deep learning  
   [Paper 1](https://doi.org/10.1007/978-3-032-05169-1_51) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790) • [Paper 3](https://doi.org/10.1093/ehjdh/ztaf143.048) • [Paper 4](https://doi.org/10.1016/j.jocmr.2026.102720)  
 
-- **Danial Moafi** (M.Sc., University of Siena, 2025–)  
+- **Danial Moafi** (M.Sc., University of Siena, 2025–2026)  
   Project title: Interactive active learning for enhanced medical image segmentation  
   [Paper 1](https://doi.org/10.1007/978-3-032-05169-1_51) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790) • [Paper 3](https://doi.org/10.1093/ehjdh/ztaf143.048) • [Paper 4](https://doi.org/10.1016/j.jocmr.2026.102720)  
 
@@ -65,11 +65,11 @@ permalink: /students/
 
 - **Daniel Vilet Rodríguez** (M.Sc., University of Copenhagen, 2025)  
   Project title: MRI-based cognitive decline prediction using pretrained foundation models  
-  [Paper 1](https://doi.org/10.48550/arXiv.2511.14601)  
+  [Paper 1](https://doi.org/10.1117/12.3087730)  
 
 - **Nathaniel Putera** (M.Sc., University of Copenhagen, 2025)  
   Project title: Cognitive decline clustering and prediction in multimodal Alzheimer's disease cohorts  
-  [Paper 1](https://doi.org/10.48550/arXiv.2511.14601)  
+  [Paper 1](https://doi.org/10.1117/12.3087730)  
 
 - **Markos Aivazoglou Vounatsos** (M.Sc., University of Copenhagen, 2025)  
   Project title: High-quality image synthesis using efficient denoising diffusion models  
@@ -80,11 +80,11 @@ permalink: /students/
 
 - **Simon Winther Albertsen** (B.Sc., University of Copenhagen, 2025)  
   Project title: Multiscale medical image segmentation with deep learning models  
-  [Paper 1](https://doi.org/10.48550/arXiv.2507.15524)  
+  [Paper 1](https://doi.org/10.1007/978-3-032-13961-0_27)  
 
 - **Hjalte Svaneborg Bjørnstrup** (B.Sc., University of Copenhagen, 2025)  
   Project title: Multiscale medical image segmentation with deep learning models  
-  [Paper 1](https://doi.org/10.48550/arXiv.2507.15524)  
+  [Paper 1](https://doi.org/10.1007/978-3-032-13961-0_27)  
 
 - **Said Djafar Said** (B.Sc., University of Copenhagen, 2025)  
   Project title: 3D image generation with guidance, explainability, and privacy inspection  
@@ -103,7 +103,7 @@ permalink: /students/
 
 - **Noah Videcrantz** (B.Sc., University of Copenhagen, 2024)  
   Project title: Reconstructing 3D brain images for domain adaptation using deep learning  
-  [Paper 1](https://doi.org/10.48550/arXiv.2511.14601)  
+  [Paper 1](https://doi.org/10.1117/12.3087730)  
 
 - **Nikolaj Søberg Lerke** (B.Sc., University of Copenhagen, 2024)  
   Project title: Inspecting privacy preservation in generative medical imaging  
