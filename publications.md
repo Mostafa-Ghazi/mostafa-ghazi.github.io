@@ -73,6 +73,10 @@ permalink: /publications/
 
 ## 📘 Peer-Reviewed Preprints
 
+**[P4]** A. Munk et al.  
+*Towards brain MRI foundation models for the clinic: Findings from the FOMO25 challenge*, arXiv preprint arXiv:2604.11679, 2026.
+[Paper](https://doi.org/10.48550/arXiv.2604.11679)  
+
 **[P3]** A. Munk, S. Cerri, J. Ambsdorf, J. Machnio, S. N. Llambias, V. Nersesjan, C. H. Krag, P. Liu, P. R. García, M. Mehdipour Ghazi, M. Boesen, M. E. Benros, J. E. Iglesias, M. Nielsen  
 *A large-scale heterogeneous 3D magnetic resonance brain imaging dataset for self-supervised learning*, arXiv preprint arXiv:2506.14432, 2025.
 [Paper](https://doi.org/10.48550/arXiv.2506.14432)  
@@ -90,11 +94,11 @@ permalink: /publications/
 
 **[C27]** J. Machnio, M. Nielsen, and M. Mehdipour Ghazi  
 *Deep learning-based regional white matter hyperintensity mapping as a robust biomarker for Alzheimer's disease*, SPIE Medical Imaging Conference, Vancouver, Canada, February 2026.
-[Paper](https://doi.org/10.48550/arXiv.2511.14588)  
+[Paper](https://doi.org/10.1117/12.3087645)  
 
 **[C26]** N. Putera, D. V. Rodríguez, N. Videcrantz, J. Machnio, M. Nielsen, and M. Mehdipour Ghazi  
 *MRI embeddings complement clinical predictors for cognitive decline modeling in Alzheimer's disease cohorts*, SPIE Medical Imaging Conference, Vancouver, Canada, February 2026.
-[Paper](https://doi.org/10.48550/arXiv.2511.14601)  
+[Paper](https://doi.org/10.1117/12.3087730)  
 
 **[C25]** J. Machnio, M. Nielsen, and M. Mehdipour Ghazi  
 *To label or not to label: PALM -- A predictive model for evaluating sample efficiency in active learning models*, Proceedings of the IEEE/CVF International Conference on Computer Vision, Honolulu, Hawai'i, October 2025.
@@ -106,7 +110,7 @@ permalink: /publications/
 
 **[C23]** S. Winther Albertsen, H. Svaneborg Bjørnstrup, M. Mehdipour Ghazi  
 *RARE-UNet: Resolution-aligned routing entry for adaptive medical image segmentation*, MICCAI 2025 Workshop on Efficient Medical AI, Daejeon, South Korea, September 2025.
-[Paper](https://doi.org/10.48550/arXiv.2507.15524) • [Code](https://github.com/simonsejse/RARE-UNet)  
+[Paper](https://doi.org/10.1007/978-3-032-13961-0_27) • [Code](https://github.com/simonsejse/RARE-UNet)  
 
 **[C22]** S. D. Said, T. Gholamalizadeh, M. Mehdipour Ghazi  
 *Tooth-Diffusion: Guided 3D CBCT synthesis with fine-grained tooth conditioning*, MICCAI 2025 Workshop on Oral and Dental Image Analysis, Daejeon, South Korea, September 2025.
