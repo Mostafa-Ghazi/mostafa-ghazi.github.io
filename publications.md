@@ -6,13 +6,21 @@ permalink: /publications/
 
 ## 📄 Journal Articles
 
-**[J16]** A. Moafi, D. Moafi, S. Shergil, E. M. Mirkes, D. Adlam, N. Samani, C. A. Budgeon, G. P. McCann, J. R. Arnold, and M. Mehdipour Ghazi  
+**[J18]** A. Moafi, D. Moafi, S. Shergil, E. M. Mirkes, D. Adlam, N. Samani, C. A. Budgeon, G. P. McCann, J. R. Arnold, and M. Mehdipour Ghazi  
 *Interactive deep learning for myocardial scar segmentation using cardiovascular magnetic resonance: A clinically deployable framework*, Journal of Cardiovascular Magnetic Resonance, p. 102720, 2026.
 [Paper](https://doi.org/10.1016/j.jocmr.2026.102720) • [Code](https://github.com/Danialmoa/SAM-MedUI)  
 
-**[J15]** K. J. Jacobsen, M. Mehdipour Ghazi, R. M. Nielsen, E. H. N. Ng, N. Shenton, L. S. Kristensen, O. Urdanibia-Centelles, S. K. Arvedsen, H. B. W. Larsson, M. B. Vestergaard, M. Lauritzen, and K. Benedek  
-*Predicting cognitive performance and brain structure from hearing assessments in healthy aging males: A longitudinal cohort study*, The Lancet Healthy Longevity, 2026.
+**[J17]** S. Tecelao, J. Jarholm, B. Kirsebom, M. Mehdipour Ghazi, L. Pålhaugen, B. Gísladóttir, F. Gonzalez-Ortiz, M. Akhavi, E. Hopp, A. M. Fjell, S. T. Reina, M. Nielsen, K. Blennow, D. Aarsland, A. Bjørnerud, P. Selnes, T. Fladby  
+*Independent prognostic value of peak width of skeletonized mean diffusivity on clinical progression in Alzheimer's disease*, Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 2026.
+[Paper](https://doi.org/10.1002/dad2.70416)  
+
+**[J16]** K. J. Jacobsen, M. Mehdipour Ghazi, R. M. Nielsen, E. H. N. Ng, N. Shenton, L. S. Kristensen, O. Urdanibia-Centelles, S. K. Arvedsen, H. B. W. Larsson, M. B. Vestergaard, M. Lauritzen, and K. Benedek  
+*Individual differences in hearing decline predict region-specific brain and cognitive changes in healthy aging men*, Frontiers in Aging – Healthy Longevity, 2026.
 [Paper](http://dx.doi.org/10.2139/ssrn.6437130)  
+
+**[J15]** S. Cerri, A. Munk, J. Ambsdorf, J. Machnio, S. N. Llambias, V. Nersesjan, C. H. Krag, P. Liu, P. R. García, M. Mehdipour Ghazi, M. Boesen, M. E. Benros, J. E. Iglesias, M. Nielsen  
+*A large-scale heterogeneous 3D magnetic resonance brain imaging dataset for self-supervised learning*, Scientific Data, 2026.
+[Paper](https://doi.org/10.1038/s41597-026-07688-0)  
 
 **[J14]** S. Cerri, V. Nersesjan, K. V. Klein, E. C. Cóppulo, S. N. Llambias, M. Mehdipour Ghazi, M. Nielsen, M. E. Benros  
 *Cross-disorder comparison of brain structures among 4,836 individuals with mental disorders and controls utilizing Danish population-based clinical MRI scans*, Molecular Psychiatry, 2026.
@@ -73,13 +81,9 @@ permalink: /publications/
 
 ## 📘 Peer-Reviewed Preprints
 
-**[P4]** A. Munk et al.  
+**[P3]** A. Munk et al.  
 *Towards brain MRI foundation models for the clinic: Findings from the FOMO25 challenge*, arXiv preprint arXiv:2604.11679, 2026.
 [Paper](https://doi.org/10.48550/arXiv.2604.11679)  
-
-**[P3]** A. Munk, S. Cerri, J. Ambsdorf, J. Machnio, S. N. Llambias, V. Nersesjan, C. H. Krag, P. Liu, P. R. García, M. Mehdipour Ghazi, M. Boesen, M. E. Benros, J. E. Iglesias, M. Nielsen  
-*A large-scale heterogeneous 3D magnetic resonance brain imaging dataset for self-supervised learning*, arXiv preprint arXiv:2506.14432, 2025.
-[Paper](https://doi.org/10.48550/arXiv.2506.14432)  
 
 **[P2]** S. N. Llambias, J. Machnio, A. Munk, J. Ambsdorf, M. Nielsen, and M. Mehdipour Ghazi  
 *Yucca: A deep learning framework for medical image analysis*, arXiv preprint arXiv:2407.19888, 2024.
@@ -91,6 +95,10 @@ permalink: /publications/
 
 
 ## 📝 Conference & Workshop Papers
+
+**[C28]** J. Machnio, M. Nielsen, and M. Mehdipour Ghazi  
+*A mechanism-driven theory of phase transitions in active learning*, 19th European Conference on Computer Vision, Malmö, Sweden, September 2026.
+[Paper](https://doi.org/10.48550/arXiv.2607.00144)  
 
 **[C27]** J. Machnio, M. Nielsen, and M. Mehdipour Ghazi  
 *Deep learning-based regional white matter hyperintensity mapping as a robust biomarker for Alzheimer's disease*, SPIE Medical Imaging Conference, Vancouver, Canada, February 2026.
