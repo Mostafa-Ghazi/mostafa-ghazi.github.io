@@ -132,7 +132,7 @@ My research focuses on artificial intelligence with interests in deep machine le
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px;">
   <div style="width: 320px; height: 190px;">
-    <canvas id="papersPerYearChart"></canvas>
+    <canvas id="papersPerCatChart"></canvas>
   </div>
   <div style="width: 150px; height: 150px;">
     <canvas id="authorshipChart"></canvas>
@@ -171,13 +171,13 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
 <script>
   Chart.register(ChartDataLabels);
   const publicationData = {
-    cat: ['Preprint', 'Clinical Abstract', 'Journal Article', 'Conference & Workshop'],
+    cat: ['Preprints', 'Clinical Abstracts', 'Journal Articles', 'Conferences & Workshops'],
     papersByCat: [3, 5, 18, 28],
     authors: ['First', 'Last', 'Middle'],
     authorsByOrder: [17, 23, 14],
   };
   // Papers per Year Chart
-  new Chart(document.getElementById('papersPerYearChart'), {
+  new Chart(document.getElementById('papersPerCatChart'), {
     type: 'bar',
     data: {
       labels: publicationData.cat,
