@@ -15,6 +15,13 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 <ul>
 
 <li>
+🎯 <strong>[Paper – Oral]</strong> Accepted at <em>MICCAI Workshop on Efficient Medical AI</em> 
+(<a href="https://sites.google.com/view/ema2026/programme?authuser=0">October 1</a>)
+<br>
+<strong>Title:</strong> <em>How Many Labels Are Enough? ALDA: Active Learning Deployment Advisor for Medical Image Classification</em>
+</li>  
+
+<li>
 📈 <strong>[Paper – Poster]</strong> Accepted at <em> ECCV 2026</em> 
 (<a href="https://eccv.ecva.net/">September 10-12</a>)
 <br>
