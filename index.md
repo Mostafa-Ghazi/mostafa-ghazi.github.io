@@ -22,6 +22,13 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 </li>  
 
 <li>
+🏆 <strong>[Challenge]</strong> Organizing the <em>FOMO26 Challenge</em> at <em>MICCAI 2026</em> 
+(<a href="https://fomo26.github.io/">October 1</a>)
+<br>
+<strong>Title:</strong> <em>Foundation Model Challenge for Brain MRI</em>
+</li>  
+
+<li>
 📈 <strong>[Paper – Poster]</strong> Accepted at <em> ECCV 2026</em> 
 (<a href="https://eccv.ecva.net/">September 10-12</a>)
 <br>
