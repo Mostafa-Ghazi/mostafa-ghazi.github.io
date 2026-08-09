@@ -15,11 +15,18 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 <ul>
 
 <li>
+🧠 <strong>[Paper – Poster]</strong> Accepted at <em> ECCV 2026 Workshop on Artificial Intelligence for Medical 3D Visio</em> 
+(<a href="[https://spie.org/medical-imaging/presentation/MRI-embeddings-complement-clinical-predictors-for-cognitive-decline-modeling-in/13926-99](https://ai4m3d.github.io/)">September 9</a>)
+<br>
+<strong>Title:</strong> <em>Do 3D Medical Foundation Models See Through MRI Artifacts? A Controlled Study of Representation Robustness</em>
+</li>  
+
+<li>
 🎓 <strong>[Summer School]</strong> Leading the <em>AI in Life Science Summer School 2026</em> 
 (<a href="https://lifesciencesummerschool.ku.dk/">August 10–21</a>) 
 <br> 
 <strong>Focus:</strong> <em>An intensive summer school exploring the future of health data and artificial intelligence</em> 
-</li>
+</li>  
 
 <li>
 🧠 <strong>[Paper – Poster]</strong> Accepted at <em>SPIE Medical Imaging</em> 
