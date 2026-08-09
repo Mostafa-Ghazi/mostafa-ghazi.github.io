@@ -15,8 +15,15 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 <ul>
 
 <li>
-🧠 <strong>[Paper – Poster]</strong> Accepted at <em> ECCV 2026 Workshop on Artificial Intelligence for Medical 3D Visio</em> 
-(<a href="[https://spie.org/medical-imaging/presentation/MRI-embeddings-complement-clinical-predictors-for-cognitive-decline-modeling-in/13926-99](https://ai4m3d.github.io/)">September 9</a>)
+📈 <strong>[Paper – Poster]</strong> Accepted at <em> ECCV 2026</em> 
+(<a href="https://eccv.ecva.net/">September 10-12</a>)
+<br>
+<strong>Title:</strong> <em>A Mechanism-Driven Theory of Phase Transitions in Active Learning</em>
+</li>  
+
+<li>
+🧠 <strong>[Paper – Poster]</strong> Accepted at <em> ECCV 2026 Workshop on Artificial Intelligence for Medical 3D Vision</em> 
+(<a href="https://ai4m3d.github.io/">September 9</a>)
 <br>
 <strong>Title:</strong> <em>Do 3D Medical Foundation Models See Through MRI Artifacts? A Controlled Study of Representation Robustness</em>
 </li>  
