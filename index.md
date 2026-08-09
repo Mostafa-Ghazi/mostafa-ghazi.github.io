@@ -15,6 +15,20 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 <ul>
 
 <li>
+⚛️ <strong>[Paper]</strong> Accepted at <em>BMVC 2026</em> 
+(<a href="https://bmvc2026.bmva.org/programme/accepted_papers/">November 23-26</a>)
+<br>
+<strong>Title:</strong> <em>QINA: Quantum-Inspired Nonlinear Adapters for Pretrained Vision Models</em>
+</li>  
+
+<li>
+🔄 <strong>[Paper]</strong> Accepted at <em>BMVC 2026</em> 
+(<a href="https://bmvc2026.bmva.org/programme/accepted_papers/">November 23-26</a>)
+<br>
+<strong>Title:</strong> <em>ActiveAugment: Online Active Learning for Augmentation Selection in Deep Learning</em>
+</li>  
+
+<li>
 🎯 <strong>[Paper – Oral]</strong> Accepted at <em>MICCAI Workshop on Efficient Medical AI</em> 
 (<a href="https://sites.google.com/view/ema2026/programme?authuser=0">October 1</a>)
 <br>
