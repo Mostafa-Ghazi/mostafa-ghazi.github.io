@@ -15,6 +15,13 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 <ul>
 
 <li>
+🎓 <strong>[Summer School]</strong> Leading the <em>AI in Life Science Summer School 2026</em> 
+(<a href="https://lifesciencesummerschool.ku.dk/">August 10–21</a>) 
+<br> 
+<strong>Focus:</strong> <em>An intensive summer school exploring the future of health data and artificial intelligence</em> 
+</li>
+
+<li>
 🧠 <strong>[Paper – Poster]</strong> Accepted at <em>SPIE Medical Imaging</em> 
 (<a href="https://spie.org/medical-imaging/presentation/MRI-embeddings-complement-clinical-predictors-for-cognitive-decline-modeling-in/13926-99">February 16</a>)
 <br>
