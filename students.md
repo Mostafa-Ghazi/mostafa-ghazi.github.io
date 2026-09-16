@@ -6,35 +6,54 @@ permalink: /students/
 
 - **Julia Machnio** (Ph.D., University of Copenhagen, 2024–)  
   Project title: A fine-grained analysis of brain imaging abnormalities using active learning  
-  [Paper 1](https://openreview.net/pdf?id=ea0YJaJShO) • [Paper 2](https://doi.org/10.48550/arXiv.2506.22041) • [Paper 3](https://doi.org/10.48550/arXiv.2507.15381) • [Paper 4](https://doi.org/10.1117/12.3087645) • [Paper 5](https://doi.org/10.48550/arXiv.2607.00144)  
+  [Paper 1](https://openreview.net/pdf?id=ea0YJaJShO) • [Paper 2](https://doi.org/10.48550/arXiv.2506.22041) • [Paper 3](https://doi.org/10.48550/arXiv.2507.15381) • [Paper 4](https://doi.org/10.1117/12.3087645) • [Paper 5](https://doi.org/10.1007/978-3-032-37447-9_19) • [Paper 6](https://doi.org/10.48550/arXiv.2608.03511)  
 
 - **Ida Brandt Andersen** (Ph.D., University of Copenhagen, 2024–)  
   Project title: Predicting risk of surgery, tumor growth, and endocrine failure using AI  
 
+- **Elif Ecem Akbaba** (Ph.D., Istanbul Technical University, 2026–)  
+  Project title: Vision foundation model adaptation for medical imaging  
+
+- **Simon Winther Albertsen** (M.Sc., University of Copenhagen, 2026–)  
+  Project title: Explainable diffusion models for medical imaging  
+  [Paper 1](https://openreview.net/attachment?id=FOlGqDQq9v&name=pdf)  
+
+- **Hjalte Svaneborg Bjørnstrup** (M.Sc., University of Copenhagen, 2026–)  
+  Project title: Fast and efficient diffusion Models for medical imaging  
+  [Paper 1](https://doi.org/10.1007/978-3-032-13961-0_27)  
+
+- **Said Djafar Said** (M.Sc., University of Copenhagen, 2026–)  
+  Project title: Efficient vision foundation model training in the frequency domain  
+  [Paper 1](https://doi.org/10.48550/arXiv.2508.14276)  
+
+- **Andrea Zeuthen Heidam** (M.Sc., University of Copenhagen, 2026–)  
+  Project title: Cross-model concept alignment in medical foundation models  
+  
+- **Julia Anna Mielcarz** (M.Sc., University of Copenhagen, 2026–)  
+  Project title: On the representation analysis of medical foundation models  
+  [Paper 1](https://doi.org/10.48550/arXiv.2608.06613)  
+  
 - **Aida Moafi** (Ph.D., University of Leicester, 2024–2026)  
   Project title: Cardiac fibrosis and scar segmentation from MRIs using deep learning  
   [Paper 1](https://doi.org/10.1007/978-3-032-05169-1_51) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790) • [Paper 3](https://doi.org/10.1093/ehjdh/ztaf143.048) • [Paper 4](https://doi.org/10.1016/j.jocmr.2026.102720)  
-
+  
 - **Danial Moafi** (M.Sc., University of Siena, 2025–2026)  
   Project title: Interactive active learning for enhanced medical image segmentation  
-  [Paper 1](https://doi.org/10.1007/978-3-032-05169-1_51) • [Paper 2](https://www.frontiersin.org/books/Medical_Image_Understanding_and_Analysis_MIUA_2025/13790) • [Paper 3](https://doi.org/10.1093/ehjdh/ztaf143.048) • [Paper 4](https://doi.org/10.1016/j.jocmr.2026.102720)  
 
-- **Thomas Nielsen** (B.Sc., University of Copenhagen, 2025)  
+- **Thomas Nielsen** (B.Sc., University of Copenhagen, 2026)  
   Project title: Efficient deep learning for pose estimation, object detection, and tracking in hammer throw performance analysis  
 
-- **Andreas Sebastian Melbye** (B.Sc., University of Copenhagen, 2025)  
+- **Andreas Sebastian Melbye** (B.Sc., University of Copenhagen, 2026)  
   Project title: Efficient deep learning for pose estimation, object detection, and tracking in hammer throw performance analysis  
 
-- **Julia Anna Mielcarz** (M.Sc., University of Copenhagen, 2026–)  
-  Project title: Rethinking image quality metrics for diffusion-based missing modality completion  
-
-- **Noah Videcrantz** (M.Sc., University of Copenhagen, 2026–)  
+- **Noah Videcrantz** (M.Sc., University of Copenhagen, 2026)  
   Project title: A unified active learning framework for optimizing the augmentation strategies  
+  [Paper 1](https://doi.org/10.48550/arXiv.2608.28923)  
 
-- **Adam Bruun Faber** (M.Sc., University of Copenhagen, 2026–)  
+- **Adam Bruun Faber** (M.Sc., University of Copenhagen, 2026)  
   Project title: Efficient task-specific fine-tuning in optimized low-dimensional subspaces  
 
-- **Daniel Klaaby** (M.Sc., University of Copenhagen, 2026–)  
+- **Daniel Klaaby** (M.Sc., University of Copenhagen, 2026)  
   Project title: MRI quality assessment and generation using conditional diffusion models  
 
 - **Martin Wardahl Zillmer** (M.Sc., University of Copenhagen, 2025)  
