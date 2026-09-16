@@ -20,11 +20,9 @@ permalink: /students/
 
 - **Hjalte Svaneborg Bjørnstrup** (M.Sc., University of Copenhagen, 2026–)  
   Project title: Fast and efficient diffusion Models for medical imaging  
-  [Paper 1](https://doi.org/10.1007/978-3-032-13961-0_27)  
 
 - **Said Djafar Said** (M.Sc., University of Copenhagen, 2026–)  
   Project title: Efficient vision foundation model training in the frequency domain  
-  [Paper 1](https://doi.org/10.48550/arXiv.2508.14276)  
 
 - **Andrea Zeuthen Heidam** (M.Sc., University of Copenhagen, 2026–)  
   Project title: Cross-model concept alignment in medical foundation models  
