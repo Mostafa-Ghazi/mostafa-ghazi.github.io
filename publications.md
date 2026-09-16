@@ -100,9 +100,29 @@ permalink: /publications/
 
 ## 📝 Conference & Workshop Papers
 
+**[C33]** M. Mehdipour Ghazi  
+*QINA: Quantum-inspired nonlinear adapters for pretrained vision models*, British Machine Vision Conference, Lancaster, UK, November 2026.
+[Paper](https://bmvc2026.bmva.org/programme/accepted_papers/)  
+
+**[C32]** N. Videcrantz and M. Mehdipour Ghazi  
+*ActiveAugment: Online active learning for augmentation selection in deep learning*, British Machine Vision Conference, Lancaster, UK, November 2026.
+[Paper](https://doi.org/10.48550/arXiv.2608.28923) • [Code](https://github.com/noahvide/ActiveAugment)  
+
+**[C31]** S. Winther Albertsen, H. Svaneborg Bjørnstrup, S. D. Said, and M. Mehdipour Ghazi  
+*CATCH: Counterfactual anatomical tissue inpainting with conditional Haar diffusion*, MICCAI 2026 Challenge of BraTS-Inpainting, Strasbourg, France, September 2026.
+[Paper](https://openreview.net/attachment?id=FOlGqDQq9v&name=pdf) • [Code](https://github.com/simonwinther/brats2026)  
+
+**[C30]** J. A. Mielcarz, D. Klaaby, and M. Mehdipour Ghazi  
+*Do 3D medical foundation models see through MRI artifacts? A controlled study of representation robustness*, ECCV 2026 Workshop on Artificial Intelligence for Medical 3D Vision, Malmö, Sweden, September 2026.
+[Paper](https://doi.org/10.48550/arXiv.2608.06613)  
+
+**[C29]** J. Machnio, M. Nielsen, and M. Mehdipour Ghazi  
+*How many labels are enough? ALDA: Active Learning Deployment Advisor for Medical Image Classification*, MICCAI 2026 Workshop on Efficient Medical AI, Strasbourg, France, September 2026.
+[Paper](https://doi.org/10.48550/arXiv.2608.03511) • [Code](https://github.com/juliamachnio/PALM)  
+
 **[C28]** J. Machnio, M. Nielsen, and M. Mehdipour Ghazi  
 *A mechanism-driven theory of phase transitions in active learning*, 19th European Conference on Computer Vision, Malmö, Sweden, September 2026.
-[Paper](https://doi.org/10.48550/arXiv.2607.00144)  
+[Paper](https://doi.org/10.1007/978-3-032-37447-9_19) • [Code](https://github.com/juliamachnio/PALM)  
 
 **[C27]** J. Machnio, M. Nielsen, and M. Mehdipour Ghazi  
 *Deep learning-based regional white matter hyperintensity mapping as a robust biomarker for Alzheimer's disease*, SPIE Medical Imaging Conference, Vancouver, Canada, February 2026.
@@ -118,7 +138,7 @@ permalink: /publications/
 
 **[C24]** M. Aivazoglou Vounatsos and M. Mehdipour Ghazi  
 *A wavelet diffusion framework for accelerated generative modeling with lightweight denoisers*, International Conference on Frontiers of Artificial Intelligence, Ethics, and Multidisciplinary Applications, Stavanger, Norway, September 2025.
-[Paper](https://doi.org/10.48550/arXiv.2507.15381) • [Code](https://github.com/markos-aivazoglou/wavelet-diffusion)  
+[Paper](https://link.springer.com/book/9789819230556) • [Code](https://github.com/markos-aivazoglou/wavelet-diffusion)  
 
 **[C23]** S. Winther Albertsen, H. Svaneborg Bjørnstrup, M. Mehdipour Ghazi  
 *RARE-UNet: Resolution-aligned routing entry for adaptive medical image segmentation*, MICCAI 2025 Workshop on Efficient Medical AI, Daejeon, South Korea, September 2025.
