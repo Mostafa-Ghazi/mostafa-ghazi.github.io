@@ -6,6 +6,10 @@ permalink: /publications/
 
 ## 📄 Journal Articles
 
+**[J19]** Z. Kang, J. Xu, J. Jia, R. Fu, X. Kang, Y. Liu, and M. Mehdipour Ghazi  
+*KAN-EUNet: A KAN-enhanced U-Net for explainable medical image segmentation*, Applied Soft Computing, 2026.
+[Paper](https://www.sciencedirect.com/science/article/pii/S1568494626018260?dgcid=coauthor) • [Code](https://github.com/kanglzu/KAN-EUNet)  
+
 **[J18]** A. Moafi, D. Moafi, S. Shergil, E. M. Mirkes, D. Adlam, N. Samani, C. A. Budgeon, G. P. McCann, J. R. Arnold, and M. Mehdipour Ghazi  
 *Interactive deep learning for myocardial scar segmentation using cardiovascular magnetic resonance: A clinically deployable framework*, Journal of Cardiovascular Magnetic Resonance, p. 102720, 2026.
 [Paper](https://doi.org/10.1016/j.jocmr.2026.102720) • [Code](https://github.com/Danialmoa/SAM-MedUI)  
