@@ -36,6 +36,13 @@ I am an Assistant Professor in AI at the Department of Computer Science, Univers
 </li>  
 
 <li>
+🧠 <strong>[Paper – Poster]</strong> Accepted at <em> MICCAI 2026 Challenge of BraTS Inpainting</em> 
+(<a href="https://challenges.synapse.org/Challenges/DetailsPage/Task4?id=syn74274097#Description">October 1</a>)
+<br>
+<strong>Title:</strong> <em>CATCH: Counterfactual Anatomical Tissue Inpainting with Conditional Haar Diffusion</em>
+</li>  
+
+<li>
 🏆 <strong>[Challenge]</strong> Organizing the <em>FOMO26 Challenge</em> at <em>MICCAI 2026</em> 
 (<a href="https://fomo26.github.io/">October 1</a>)
 <br>
@@ -221,9 +228,9 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   Chart.register(ChartDataLabels);
   const publicationData = {
     cat: ['Preprints', 'Clinical Abstracts', 'Journal Articles', 'Conferences & Workshops'],
-    papersByCat: [3, 5, 18, 28],
+    papersByCat: [3, 5, 19, 33],
     authors: ['First', 'Last', 'Middle'],
-    authorsByOrder: [17, 23, 14],
+    authorsByOrder: [18, 28, 14],
   };
   // Papers per Year Chart
   new Chart(document.getElementById('papersPerCatChart'), {
@@ -298,8 +305,8 @@ I am open to supervising Bachelor’s, Master’s, and Ph.D. students interested
   // Data for charts
   const studentsData = {
     levels: ['B.Sc.', 'M.Sc.', 'Ph.D.'],
-    studentsByLevel: [16, 20, 3],
-    papersByLevel: [4, 12, 9],
+    studentsByLevel: [16, 24, 4],
+    papersByLevel: [4, 15, 10],
   };
   // Number of students per level chart
   new Chart(document.getElementById('studentsLevelChart'), {
