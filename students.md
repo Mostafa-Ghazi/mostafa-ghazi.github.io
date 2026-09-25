@@ -16,7 +16,7 @@ permalink: /students/
 
 - **Simon Winther Albertsen** (M.Sc., University of Copenhagen, 2026–)  
   Project title: Explainable diffusion models for medical imaging  
-  [Paper 1](https://openreview.net/attachment?id=FOlGqDQq9v&name=pdf)  
+  [Paper 1](https://doi.org/10.48550/arXiv.2609.29591)  
 
 - **Hjalte Svaneborg Bjørnstrup** (M.Sc., University of Copenhagen, 2026–)  
   Project title: Fast and efficient diffusion Models for medical imaging  
