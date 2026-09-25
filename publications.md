@@ -102,7 +102,7 @@ permalink: /publications/
 
 **[C33]** M. Mehdipour Ghazi  
 *QINA: Quantum-inspired nonlinear adapters for pretrained vision models*, British Machine Vision Conference, Lancaster, UK, November 2026.
-[Paper](https://bmvc2026.bmva.org/programme/accepted_papers/)  
+[Paper](https://doi.org/10.48550/arXiv.2609.29592)  
 
 **[C32]** N. Videcrantz and M. Mehdipour Ghazi  
 *ActiveAugment: Online active learning for augmentation selection in deep learning*, British Machine Vision Conference, Lancaster, UK, November 2026.
@@ -110,7 +110,7 @@ permalink: /publications/
 
 **[C31]** S. Winther Albertsen, H. Svaneborg Bjørnstrup, S. D. Said, and M. Mehdipour Ghazi  
 *CATCH: Counterfactual anatomical tissue inpainting with conditional Haar diffusion*, MICCAI 2026 Challenge of BraTS-Inpainting, Strasbourg, France, September 2026.
-[Paper](https://openreview.net/attachment?id=FOlGqDQq9v&name=pdf) • [Code](https://github.com/simonwinther/brats2026)  
+[Paper](https://doi.org/10.48550/arXiv.2609.29591) • [Code](https://github.com/simonwinther/brats2026)  
 
 **[C30]** J. A. Mielcarz, D. Klaaby, and M. Mehdipour Ghazi  
 *Do 3D medical foundation models see through MRI artifacts? A controlled study of representation robustness*, ECCV 2026 Workshop on Artificial Intelligence for Medical 3D Vision, Malmö, Sweden, September 2026.
